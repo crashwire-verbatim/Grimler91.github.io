@@ -1,25 +1,25 @@
-Date: Mon, 31 Jul 2017 19:56:56 +0000
+Date: Mon, 31 Jul 2017 22:06:38 +0000
 MD5Sum:
- aa6428e7de7398b5091ba397999aea28               38 Release
- b64b9220ed80f800f2a473fea3baae4b              658 testing/binary-all/Packages
- 2b392a1d9924fac6bc89e20a9e5fb48a              515 testing/binary-all/Packages.bz2
- bca227939d2455b4a23f92d427d3f792             1368 testing/binary-arm/Packages
- 5bc7d4f2deabf6132f37d4f1fa4801a4              841 testing/binary-arm/Packages.bz2
+ 14a4c607cb615048d342850b8c6e8c34               38 Release
+ 20d729bab226f0cc288abeb862f41e7b              672 testing/binary-all/Packages
+ 27267e020a776b0e45f915cde2293237              528 testing/binary-all/Packages.bz2
+ cddd43a87576f7c662a30f6593d27a88             1397 testing/binary-arm/Packages
+ bf927ae515494d5f51af5b3a43c74674              844 testing/binary-arm/Packages.bz2
 SHA1:
- 0fea437464b0d66871c62aa2b195cdd8f91f29bc               38 Release
- 4a5813d7b08a32c621f88a69f91c4abd5f601ed7              658 testing/binary-all/Packages
- beb5fe02bb27207288ead5f5975eaa040474690d              515 testing/binary-all/Packages.bz2
- a300f6a6e5529b9723116440a603c36d01d7a8ef             1368 testing/binary-arm/Packages
- 69b2a0858e94aa77afd4f3f9073c762c721d67ba              841 testing/binary-arm/Packages.bz2
+ dff4458881adfebd2472b1eb2b57d171afef8e0d               38 Release
+ 7bce6d403677394f28e94e181af2386766017f1d              672 testing/binary-all/Packages
+ 9c3f205448f014bf43582e13d0baa3f2918a4475              528 testing/binary-all/Packages.bz2
+ 64332c41970997cb703cca63f7089db4e9031bb7             1397 testing/binary-arm/Packages
+ 1877342998f7481958c07068dda839a8d511f8a4              844 testing/binary-arm/Packages.bz2
 SHA256:
- 0aafec19bb53ef3f2840b82250f8c9a7de81dfd469fb2b90260d71e826568f0e               38 Release
- 932e3fa11b7aca344c8bfba66e1e9433b3c679b05684f3e0f8883b8f54960682              658 testing/binary-all/Packages
- ce5e69df79475749b6ae2b511af80d9b85c977ea16dfbed58072475509388228              515 testing/binary-all/Packages.bz2
- 00d034bdbbdd99edacb5e9a6503f8953e88a80de0204830630352d25f954ca31             1368 testing/binary-arm/Packages
- 9f6bd4a2d6fc471be4ffa49fec167e5ba02fba1725cb82af6a4894ca67f21404              841 testing/binary-arm/Packages.bz2
+ 7b59f5a0a578c804eefba8c8f31177eebbe9596ad7bd3b9cc5cb5180bdc1d84d               38 Release
+ c2a5bc09498c86755c854919cec259fc5b2a9fcc54e71a2604f72f9a4f5918b0              672 testing/binary-all/Packages
+ bef300a70c0164a9853c0de70db85193ef687525a0dc624f9b1fae1232ef73d4              528 testing/binary-all/Packages.bz2
+ 8d55e85d2c30766c6b7258473dce60ed724bfc9567f60a84b455f00d253a69e2             1397 testing/binary-arm/Packages
+ 72dfebd0c325ec6787a1a345fe48ad128e00def5a5f3468903259ea4fab1bfc3              844 testing/binary-arm/Packages.bz2
 SHA512:
- f7150463d55833d34c7223f7ba10294491fea181325197eab0f7680f1d3ced2e086288dfc7fec743069eb691c0abe8331cd49525eb3d415bdfa819d2dc73d126               38 Release
- 9f74621ffaebd4aa1208f6c741c4dca4c58ddf82dbe9ac461dd49fb03b28ca13702cc4a464e766bbc15003dec9b918a1aac1c298d1b299bfab3acb8bc678b036              658 testing/binary-all/Packages
- 24bc4afd1c870d8622ead37b70fefd1feecac50d711015f19b2b2044c1df68d48c9c179289d7b5b426ab5e9fb01eddf0107149e993c1c9e7944ee4df831be5d1              515 testing/binary-all/Packages.bz2
- 33bb0117f027bdc8adacf0749d4c41f06c9dec2a3ff3701411bfcc92fba9c5621bd41141594ab77a04d16c3c22fa439c47d7bf01b26e626680dd18e628fd0db7             1368 testing/binary-arm/Packages
- 3ec04a2a3e1a647cff65989eedc6f0e6c5d07298b1023e199964519083fa584112f8524aa92f23a879a895d604a3475ba171ad4ba5d21111854e68f59e385d81              841 testing/binary-arm/Packages.bz2
+ 7a80e64f5f42706febc31c207011a987c09bec52131a287b78059eb94e2a9a392a60be5ae4bbac73e759396b8534777d69925717f5585588ab8d8758e591e91d               38 Release
+ 2b94bf53c4e81ad87ef7f680d7807fde04e4a7419da23a2c4c524c67e7ec96802ad2fe801d5d43e75002cd4306fa0d882907cee569875dac4be34adc818d3bda              672 testing/binary-all/Packages
+ e87bfb5bb6db055bdf896e4e9d729f6763252c886b3b69091b203a2788b82bc96ca2e45bf49b648339e3d6abb4b9838fcf1b7ec1cb237f307906b22f12afdda4              528 testing/binary-all/Packages.bz2
+ 0552710af7993b97d2a546b8479df22cdd2fe0e237053b530026ad0d6b7507a7060c8a554ac379f412da113e647af12b17e9306df8bc68b30ffddcd3e412c96b             1397 testing/binary-arm/Packages
+ ebb8c271c7e0b569b15e1829e494a7d46a58a324f565ee31360793c491e0aca3a204515517defa0e1532a1cfcd359cac9b2bbc1c7af1bf7c9ab3d7153b9d7cde              844 testing/binary-arm/Packages.bz2

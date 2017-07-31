@@ -5,11 +5,11 @@ Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 324
 Depends: texlive-bin
 Filename: dists/termux/testing/binary-arm/texlive-bin-dev_20170524_arm.deb
-Size: 44852
-MD5sum: d247f1397e1fdb7a2a1b880503c7bce5
-SHA1: 942cc3e668dfa6427dc4cd5efe2b458fd1f9d530
-SHA256: e36439e07717d4864e128a51867521adf5044f77833a86dc09fe8c049b25b624
-SHA512: 8004cb1d1c011ceca72308a99b7e84e32e0aa3a7671c301289f47eaf22fd0f4d9dda38f7af434cc0bd6db652f9b2ab4a0fa5f3dbf4bca128b2fb23fa9cca9739
+Size: 44836
+MD5sum: 4036451930f2a4e699cc7297ce0019bf
+SHA1: 215983844a508243f942c3942d0ef722ef538ba2
+SHA256: 8f6ace483999a83a6698cc051477367556f3c883425992e61b4208b30c622180
+SHA512: d88a1d4922e5f4231faed4b9c21ca34036b3f089575443ba7b0822fadb5ccd237fcc385e5daa71d1ffdc87757ef2ef579a3fac7629d87071c93d438e1890bbae
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive-bin
 
@@ -17,16 +17,16 @@ Package: texlive-bin
 Architecture: arm
 Version: 20170524
 Maintainer: Henrik Grimler @Grimler91
-Installed-Size: 20372
+Installed-Size: 20644
 Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
-Conflicts: texlive
-Replaces: texlive
+Breaks: texlive (<< 20170524-3)
+Replaces: texlive (<< 20170524-3)
 Filename: dists/termux/testing/binary-arm/texlive-bin_20170524_arm.deb
-Size: 4930376
-MD5sum: 40a11022ec8998b823d4d1db2c24dda7
-SHA1: 4416b2a3cbb1150096b31110b1ff181f1b08e944
-SHA256: 49b9c140417eedf721c6d1f236cd048d218053e9749c029ccd8d4ad6a05bfb45
-SHA512: fd91336369bf35e4177c0329945864c571ee07c4103f39a4b02fcbd1c4466aea528844b4ddf2e3d83b69471b92eea14810b910e1f21c8774ed1b17f07b3633dc
+Size: 4945344
+MD5sum: 2b8ed1f73dd30405c0e642d08cefff91
+SHA1: 96a0f319f88948563b84a464206ab80ef2820c34
+SHA256: 3c519a7c7241acce76d3de387533bbeecd76f555e405ff9ba202d52b01edc34d
+SHA512: 4541545f2eacd04ba63cb9c722bf577b01f96e66e3d47240324668b39d27fd1e70237f6664af7b2a413784ff1c9ace3387532938c12e7c2d6d9db478f0a1b284
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 
