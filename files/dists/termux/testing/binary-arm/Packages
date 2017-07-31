@@ -4,7 +4,7 @@ Version: 20170524
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 324
 Depends: texlive-bin
-Filename: files/dists/termux/testing/binary-arm/texlive-bin-dev_20170524_arm.deb
+Filename: dists/termux/testing/binary-arm/texlive-bin-dev_20170524_arm.deb
 Size: 44852
 MD5sum: d247f1397e1fdb7a2a1b880503c7bce5
 SHA1: 942cc3e668dfa6427dc4cd5efe2b458fd1f9d530
@@ -21,7 +21,7 @@ Installed-Size: 20372
 Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
 Conflicts: texlive
 Replaces: texlive
-Filename: files/dists/termux/testing/binary-arm/texlive-bin_20170524_arm.deb
+Filename: dists/termux/testing/binary-arm/texlive-bin_20170524_arm.deb
 Size: 4930376
 MD5sum: 40a11022ec8998b823d4d1db2c24dda7
 SHA1: 4416b2a3cbb1150096b31110b1ff181f1b08e944

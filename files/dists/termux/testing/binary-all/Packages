@@ -4,7 +4,7 @@ Version: 20170524-3
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 53608
 Depends: wget, perl, xz-utils, gnupg2, texlive-bin
-Filename: files/dists/termux/testing/binary-all/texlive_20170524-3_all.deb
+Filename: dists/termux/testing/binary-all/texlive_20170524-3_all.deb
 Size: 7137920
 MD5sum: f7b8c851ae971ff446c9f365ae93b0e9
 SHA1: 6d2f7dfbe6280811ec5bb264af63dff7a2b1c06e
