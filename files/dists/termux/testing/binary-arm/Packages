@@ -19,14 +19,14 @@ Version: 20170524
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 20644
 Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
-Conflicts: texlive (<< 20170524-4)
+Breaks: texlive (<< 20170524-4)
 Replaces: texlive (<< 20170524-4)
 Filename: dists/termux/testing/binary-arm/texlive-bin_20170524_arm.deb
-Size: 4944636
-MD5sum: 84e68da11968f57e2fe42b29d5c06e13
-SHA1: a643221116b67c26152a8d09b9b0402ec61a8a38
-SHA256: 361c1926a86f53668c6316ea83b5550578eb4113e8ccf6482ae331e013f9bd01
-SHA512: dd4342565d064dd54545071fdaa0e383c6fc61c5eee42e55c86d3be7de37ef31a58e73b713c26cb3a2a8bf0a9db803118d64b0361261f2e215c9d641a2aa6879
+Size: 4943696
+MD5sum: 592a5dc7fc458378176415bf146681e6
+SHA1: a81ac559011739a6a60d8dad4c73c4ae8589db96
+SHA256: e8de2afe669a538f02df209c73913075a37c6cb3796096507015477126f929f0
+SHA512: e1c0d0a0dc5745304ef7fa56bcedba05b468808b704a060a9567c607a6adfdf7355554ec142b0d86409a75eda1cbfcc93c66a5cd667dde6fecd8a34c568150e6
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 
@@ -36,14 +36,15 @@ Version: 20170524
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 324
 Depends: texlive-bin
+Conflicts: texlive-dev (<< 20170524-4)
 Filename: dists/termux/testing/binary-arm/texlive-bin-dev_20170524_arm.deb
-Size: 44840
-MD5sum: e2e550907da1586efe0318b268143c8a
-SHA1: 14005ac638c3965bc0c459fbd09c338f89fcaf52
-SHA256: 66c1df59fbefe6bff54a5ba7ce26f6baff2755cec97c2578fd4502abfadfed99
-SHA512: 718ff04a7eb0a1a09e6d3f9ea0f50293baf1302235fef7d1990ea692c6235452e0b8c3164aaaced37268e16afa8fe2d1506e84557fb5ffc84473824dce84bbbe
+Size: 44864
+MD5sum: 2670ea4601ae4a191e96e16abbf326f0
+SHA1: 492a21365a21eddd51f13295509a08ffce210380
+SHA256: 86850d3cb8e552e6847987283f073def74ba4b666464008da4fa371df51e4772
+SHA512: c67c536a8006c6d75dd6cd7bea7370327c638abcb3974a32d00139749ffb8359df6e11ce0992afc91e7de6530963925cf2449bf99bce5ad307e9c61373edd1a8
 Homepage: https://www.tug.org/texlive/
-Description: Development files for texlive-bin
+Description: Development files for texlive
 
 Package: texlive-dev
 Architecture: arm
