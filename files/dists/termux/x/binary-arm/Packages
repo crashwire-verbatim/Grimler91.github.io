@@ -1,0 +1,534 @@
+Package: tigervnc
+Architecture: arm
+Version: 1.8.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 2160
+Depends: libgnutls, libjpeg-turbo, libxfont2, libpixman, libgcrypt, perl, xtrans, x11-proto, libx11, xorg-xauth, libandroid-shmem, gettext, xorg-server
+Filename: dists/termux/x/binary-arm/tigervnc_1.8.0_arm.deb
+Size: 762912
+MD5sum: 47a4a6b59479184c1019bf74405d835c
+SHA1: f55d8414adee0b2429fb9d421d40f1b3828417e5
+SHA256: 2e800e0ef197474b3037628d589473483fff06054589733561670b6afc10aa28
+SHA512: 492428bfbf1e4ae76113a7e5569b53d9490a2c2910f75bed96cf4cf630af65f71f3dbc1595026216d6f87839304c0bd321166fa6db2120b0f6d784d8b0a3d5af
+Homepage: http://www.tigervnc.org
+Description: Suite of VNC servers. Based on the VNC 4 branch of TightVNC.
+
+Package: xorg-xauth
+Architecture: arm
+Version: 1.0.10
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 44
+Depends: libxext, libxmu
+Filename: dists/termux/x/binary-arm/xorg-xauth_1.0.10_arm.deb
+Size: 16728
+MD5sum: b4d348dfe3de79ae714198fc32475e52
+SHA1: bd24047aa7aa3dff264541354d81b3d107c8ddab
+SHA256: 6e4f88c932c5ead9c6a37d2d792078998eadf1fb876bd3c4d486f5412f4289ce
+SHA512: f79ac24e661024476730ff16a0909603c7832059c3d612fc6113ba1ae630651321e06d6773c2455754778fad19e73297768c558e5d1f5d170da72b7bb1fffb6c
+Homepage: https://xorg.freedesktop.org
+Description: FIXME:Add description
+
+Package: libxmu
+Architecture: arm
+Version: 1.1.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 92
+Depends: libxt
+Filename: dists/termux/x/binary-arm/libxmu_1.1.1_arm.deb
+Size: 33668
+MD5sum: 903140061e8c0c5392ecb83a81c79eca
+SHA1: 94724eb22194df74371303f8aff447f2ad1b45f3
+SHA256: a789a1d1892463758517bf7fd65c296787b1ebb61ec5b59d2ebf7387f32c2e8f
+SHA512: b13e6778ace2c2ee34731747786d0a9e163fdde9ea5e658086b9e72e1846a7b0d7a42ea0a3470e844aca4a5d4c94c981b1688ee1974e4645d47644f09757b3dc
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxmu-dev
+Architecture: arm
+Version: 1.1.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 120
+Depends: libxmu
+Filename: dists/termux/x/binary-arm/libxmu-dev_1.1.1_arm.deb
+Size: 11996
+MD5sum: 090d89afac0cbff2a57b76502891b3bf
+SHA1: d39396802a452c1aac9dfb71b2c44c61cfdc6093
+SHA256: babb0cfa8771c8edb0b243bef07a4708a3541340948f4811cf16013791bfd9e1
+SHA512: b8cf62202127ba4861c95208532c7b065d8bb7298fb2d05cebe2938e89cbc46fd3490810582ad913815e07cc7024f2ca8a8d21ac15e6e91a97bf51b96e13c625
+Homepage: https://www.x.org
+Description: Development files for libxmu
+
+Package: libxt
+Architecture: arm
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 216
+Depends: libice, libsm
+Filename: dists/termux/x/binary-arm/libxt_1.1.3_arm.deb
+Size: 101436
+MD5sum: 639bc2933573bf255f6db1f8b74df335
+SHA1: 8b2919185143d8fe2f1b6a5df4c74872ba119a0d
+SHA256: 1d64908fa704dc91f4fcf5f82faa47ac5fce901502a81e52eca0b04a391976d3
+SHA512: b520e79b4fa2696ce91de0424707252189315e99e8ab2e01c1d10ae31c500d4a706794cb9f536285a9a529272f3a84048cd24b39e72d2c67d63194afe1a8b070
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxt-dev
+Architecture: arm
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1672
+Depends: libxt
+Filename: dists/termux/x/binary-arm/libxt-dev_1.1.3_arm.deb
+Size: 79032
+MD5sum: b1758cd9a13ecf21f538031c18d6b638
+SHA1: 7668668cc58298e917d553f8058314859239051e
+SHA256: 7610a3b9cf7f83e7ad4866b14691c80c92b38463d5b96efde70ca4f602c70d3e
+SHA512: ca6a9d1eb4a05454997d45762d02596c9bae3b9888475f3d138f3b897c14f1cb3a138415b7fdc254788d9193a846321888ac8e23d678109bfddb5a3755dd9529
+Homepage: https://www.x.org
+Description: Development files for libxt
+
+Package: libsm
+Architecture: arm
+Version: 1.2.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 32
+Depends: libice
+Filename: dists/termux/x/binary-arm/libsm_1.2.1_arm.deb
+Size: 9408
+MD5sum: 129b91919024d83ccc7ea729fede6720
+SHA1: 034638cdaf63a0bf4a320b77067d72c096f3ab6a
+SHA256: 2bbcd1ce5e6c7c06d2258b19334f1ab00a00015d9a99d0e47bc256598336bff9
+SHA512: e798477698690fb84fc4b53ed47ef914642a600a0aa1bee707b58412d01585870b73bb118c59dca5850e94c9b36f575e7af697a53f13724e8431bbdecac9affc
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libsm-dev
+Architecture: arm
+Version: 1.2.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 28
+Depends: libsm
+Filename: dists/termux/x/binary-arm/libsm-dev_1.2.1_arm.deb
+Size: 4308
+MD5sum: af438eac6c83c3798c8ef7e683762817
+SHA1: 7a5e92b7f0232878a26e04abb9dc556f44d922ee
+SHA256: 97c7a6eab62491a774e32534041596ac1a6220dfb2c82962bf689bd37be4187d
+SHA512: 77f7c0379604535411cdc6ffcad1f18bf08c054252521d99c38af49300e6721fc9ddb5bfa5529b669e71ff43f0b4eaf4b3f83a17c59935752d63c034e82fcfa2
+Homepage: https://www.x.org
+Description: Development files for libsm
+
+Package: libice
+Architecture: arm
+Version: 1.0.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 64
+Filename: dists/termux/x/binary-arm/libice_1.0.8_arm.deb
+Size: 25892
+MD5sum: 86bcc7bea16b8001c6acb311dfac2cbb
+SHA1: a43fff0f431cc46b0a48e9c465bf09e6f6b3b73e
+SHA256: 8bf3c90ee7cf3b7306e039f41e8e025035a3a54eac1b17f02aaf85d62aef793f
+SHA512: 92f56a4edf73b520dd88ae03e100b2040906ae6df619186198b2af5637a9be096e2118d08f0d37ae48dd5263b3af2623dbd9f419402ec83152b3217bdc2ba29a
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libice-dev
+Architecture: arm
+Version: 1.0.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 52
+Depends: libice
+Filename: dists/termux/x/binary-arm/libice-dev_1.0.8_arm.deb
+Size: 7484
+MD5sum: 1fc571bd27b914cd9c0d09224fe4ed3a
+SHA1: 20b86bfddf18928cfdd6a6985292a41b507ef7b7
+SHA256: e8fc929e16d59934698ddfab69e328a0cecc2d6ff6d84a95b57668b41c031275
+SHA512: 67b4780d6a43c64cf921bb73ae953e6d0aae76955aa8d8883d7de60fecdfa3f6cc1b35b9591274fbc513c0de0333337f46fb5dd05f3b4fc2b33dd24cd645e828
+Homepage: https://www.x.org
+Description: Development files for libice
+
+Package: xorg-server
+Architecture: arm
+Version: 1.19.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1152
+Depends: libx11, libxfont2, libxkbfile, libxau, libpixman, openssl, libmesa
+Filename: dists/termux/x/binary-arm/xorg-server_1.19.1_arm.deb
+Size: 545064
+MD5sum: 84ee6365db3d2fc438e270beb0022224
+SHA1: d77412fba72ff3e522a9d7cd372419aa8d5b0a68
+SHA256: bc1c1261c8bc5ccd0d52a94499d17a8ffc7ea7352350072e5f0abb68bf7702c2
+SHA512: c70d43112189b36d4bd09c3030a0a1986e27ea63069a5b8d81bf966e243f1da6c356917f5cdd30a518856390a80eecac20af0ee80eb9223e5f38998815bd0acc
+Homepage:
+Description: FIXME:Add description
+
+Package: libxkbfile
+Architecture: arm
+Version: 1.0.9
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 104
+Depends: libx11
+Filename: dists/termux/x/binary-arm/libxkbfile_1.0.9_arm.deb
+Size: 48016
+MD5sum: 777efbfb698412dc3330f32b06a09c62
+SHA1: 80ab7ed39834d19dfb0fe5f98423c2d7199d6fd9
+SHA256: e228feb1b2c9069d3387bb381d5ba698387176e19b1c617bf7b70904be67712a
+SHA512: fc460ceeba8d795121d1b4314ad6bb540aa6d331a543b27993e34803de2634e61ca78f33a281aa9ecc79ed54304d14667a4ed5bef0782567c33816ec22387592
+Homepage:
+Description: FIXME:Add description
+
+Package: libxkbfile-dev
+Architecture: arm
+Version: 1.0.9
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 52
+Depends: libxkbfile
+Filename: dists/termux/x/binary-arm/libxkbfile-dev_1.0.9_arm.deb
+Size: 7628
+MD5sum: de5e76af9b5f9331437197fb8b270190
+SHA1: cd9f6ce01d4aa0ce9e61dcbbefc745ffe953ce43
+SHA256: 541c9e3c2f5d7f2c6c91a83c75a4d2a722d41959c68476e393f7318b1e917731
+SHA512: be10dcaf152bb696ec263e2ed782f14349a8539b11af1a1fa8ffed23083f4bd116811ad7562f2bdd70ce320d7a4a044caa4d84ef3af66f41ece534a5f2c53287
+Homepage:
+Description: Development files for libxkbfile
+
+Package: libmesa
+Architecture: arm
+Version: 17.1.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 484
+Depends: libxml2, libx11, x11-proto, libdrm, libxdamage, libxshmfence, libandroid-shmem, libxext, libxfixes, libexpat
+Filename: dists/termux/x/binary-arm/libmesa_17.1.4_arm.deb
+Size: 121320
+MD5sum: db131ec101d1f7656b095413e331b3e1
+SHA1: 82a76db56c00981b10089203dc79f5b4f9d8228b
+SHA256: 4891c3e93891fb58dcb5fe28d0a70af2c75abab4a55a841ad032be90efa03057
+SHA512: 57a0d364ab0b24fbd71ef90d0e667866a1077d32490fdd1010f6ee6bcb619d4a0213c37ee544e4bffdef053c8e1a806d3a8e6c34892bf38e47d98c0ac174f19f
+Homepage: https://www.mesa3d.org
+Description: FIXME:Add description
+
+Package: libmesa-dev
+Architecture: arm
+Version: 17.1.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1404
+Depends: libmesa
+Filename: dists/termux/x/binary-arm/libmesa-dev_17.1.4_arm.deb
+Size: 124512
+MD5sum: 800f702bf839b1cade713ab321b247ef
+SHA1: a340387ef28ffe43f3f9279c0f269d26efc426e4
+SHA256: a5495acb15650534b40d68164799a103364706f9cbdea0df219de3c5b0f20d4a
+SHA512: b9addcfc7f09b5f4cefbeb33f0df94c6f1c6bfe9f19aef975a44c3f03d3e9d8eec6c25361b024a491c0f86093332b9e9b5e6126faee830bc7f849446fc7926f8
+Homepage: https://www.mesa3d.org
+Description: Development files for libmesa
+
+Package: libxshmfence
+Architecture: arm
+Version: 1.2
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 16
+Filename: dists/termux/x/binary-arm/libxshmfence_1.2_arm.deb
+Size: 2344
+MD5sum: 74e3daabe7ac4e47456c78d86803c8d4
+SHA1: cc883827bb7a994d71ddf57c4ddf50c631ac0e02
+SHA256: 4a6ccd1553be3e08d741969db2a475b362d34c3910d3da5a4f3fff04ddc95a61
+SHA512: 7b716316462259dacb7c449bbde47be6ec88c2768034031f3219b4ed2a86b9a773a28575e08e222334afd38a2cdb997376cc32ce472ddfd7b5d7c1ff12f74fcc
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxshmfence-dev
+Architecture: arm
+Version: 1.2
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 8
+Depends: libxshmfence
+Filename: dists/termux/x/binary-arm/libxshmfence-dev_1.2_arm.deb
+Size: 1856
+MD5sum: d841b99cf58c99f22220c4aef1e051f5
+SHA1: 9b89b3fb2072f2793fe8b26f0220a5cd2c961718
+SHA256: d4a0a771b3fde075cc94957c8ea33c6ca1d4a2cc7bb9a8b8f90aa8313d33a979
+SHA512: 96b346fc85e05648480101656ed5fad30cdf709c947bb11f4f313104f0ab799fb898f9b646626ee651bb16d95464d02081d34ff1129401a4f15ed36b3a7a76b6
+Homepage: https://www.x.org
+Description: Development files for libxshmfence
+
+Package: libxdamage
+Architecture: arm
+Version: 1.1.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 16
+Depends: libxfixes
+Filename: dists/termux/x/binary-arm/libxdamage_1.1.4_arm.deb
+Size: 2816
+MD5sum: 0cc96cf885e13f9d3d54368f7284051f
+SHA1: 692773606988ce796defa0be74b91079d284e8fe
+SHA256: ee465e228f7a8ffc8d5fa5a84f1d28a26f7a23e047deb9695f318f0433bb1bca
+SHA512: 29bc89b2456a13f283dacacc4a363478363db6cdf335545822f74db82ee5cd92b5001c9859f81a78589869b07dcde8cea6377e3d053ae44821ad6bb1597b487f
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxdamage-dev
+Architecture: arm
+Version: 1.1.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 8
+Depends: libxdamage
+Filename: dists/termux/x/binary-arm/libxdamage-dev_1.1.4_arm.deb
+Size: 2160
+MD5sum: 7b91448fe6658a2760eeedf57ec657a2
+SHA1: bc6410e72ded2f94b44dff1bab90c8769edcddbb
+SHA256: 89751f75e11fff488adc9176c24bf5ed38b78e41d3159d6d6c85971c8f7a01da
+SHA512: b961e254cf8e1d5080c55f1a8dae77f31f40a5d48dc89ed4af5756145d589ac948b3c601ebd7921b3c489d6d4328e2f72d512521cb5f45133e733c32ff7783a3
+Homepage: https://www.x.org
+Description: Development files for libxdamage
+
+Package: libxfixes
+Architecture: arm
+Version: 5.0.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20
+Depends: libx11, x11-proto
+Filename: dists/termux/x/binary-arm/libxfixes_5.0.3_arm.deb
+Size: 4624
+MD5sum: c1204b271a60e9b3a31a719f1f0b5822
+SHA1: 2d000be02b550930f2d891637d4e1c39c27d36ad
+SHA256: e9a57a32ae0530c52e007716b88e441fae63da03591eab1748add18a39455124
+SHA512: af6b6e8194d4f0ed32395ac37bca704fa1d444a541c64717283dde5727891f2f6e2798a728da2b95e237904a61c20d92c6fc4643daaf360e94a5c9aebaefdb33
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxfixes-dev
+Architecture: arm
+Version: 5.0.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 16
+Depends: libxfixes
+Filename: dists/termux/x/binary-arm/libxfixes-dev_5.0.3_arm.deb
+Size: 4196
+MD5sum: c1f36edbd21e4efe17f9dc1c8bfdcce1
+SHA1: f9cd3224d1ba926bd6730cd29e787ed4138b2fcc
+SHA256: 89a39662b6af14d788ca7ebb75c22c732d094064d5f44a6741090c9c1f32d908
+SHA512: 37c1c5a29841947f05cde1238176c97bd0938750ad10a5e16a7b8c72013f8f1579637717ac388f6a80404a4f8512a43ac941f94aff228085118d7282af716498
+Homepage: https://www.x.org
+Description: Development files for libxfixes
+
+Package: libdrm
+Architecture: arm
+Version: 2.4.80
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 216
+Filename: dists/termux/x/binary-arm/libdrm_2.4.80_arm.deb
+Size: 65108
+MD5sum: 896038e59cea77e09026c7e4dd9a02bf
+SHA1: 99f1b3293a5c83a9ec583645fcb3828469bbdb0c
+SHA256: 5b65469265a124c0368a225f177a30f51ca88af3344223f952db6d9d986bdff0
+SHA512: 94853199c79c2919350946bffc42e4bd7590e0aef4f262511ff1ef08c7100401d628394242f1317b4263ae738b1eb6c38e7db383b1255217fee8b6ca3bac2cef
+Homepage: http://dri.freedesktop.org
+Description: FIXME:Add description
+
+Package: libdrm-dev
+Architecture: arm
+Version: 2.4.80
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 596
+Depends: libdrm
+Filename: dists/termux/x/binary-arm/libdrm-dev_2.4.80_arm.deb
+Size: 90228
+MD5sum: a632cdd8b468d040c7c1fef05b560975
+SHA1: 2c1b8dd3ed3e5d1dbc3e827032d07fa88e6b270e
+SHA256: 2993275664995163916cd2c5abd84767a7bb90551253c900a61231af3cfbf849
+SHA512: 4fe59e1e44f55c711c6170c3a79f2036e614c05a07ff3d3f2c945d3dee8bae7ec7386e83060d183990fbdec05fa31e2c0bdac59800b31e63cd2a5d5e90c9e023
+Homepage: http://dri.freedesktop.org
+Description: Development files for libdrm
+
+Package: libxfont2
+Architecture: arm
+Version: 2.0.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 116
+Depends: freetype, x11-proto, libfontenc, xtrans
+Filename: dists/termux/x/binary-arm/libxfont2_2.0.1_arm.deb
+Size: 67576
+MD5sum: 6a5d76ff6b5173689beb30c5126112e0
+SHA1: 03c36a070793d24bb377b2615b2678b4248b58cb
+SHA256: 9d60f7535b5cbfc8dd3303a6cb32f69795bef1d08c5686141e205e277e397a06
+SHA512: f0c339ef998101435a57af0242d67481167b879bebb978c7f9e1746f8c209098b49f1e1bcb330341f92e3e396f29adb88a853ce47745ec6e57d32893b05b00dd
+Homepage:
+Description: FIXME:Add description
+
+Package: libxfont2-dev
+Architecture: arm
+Version: 2.0.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 12
+Depends: libxfont2
+Filename: dists/termux/x/binary-arm/libxfont2-dev_2.0.1_arm.deb
+Size: 3024
+MD5sum: 758c8cf9e03b7ecdaf572e6ac85a6fc0
+SHA1: ba1ffc5d4d59192f0870c1774d30aa96c3602c9c
+SHA256: 9b2f3fd45920119f7a0bb95201dc50d810d611a3e91300a8633cf5f10e207d05
+SHA512: a0dca251474b2a0e58236d5251f1b8da0b309cdbecaa7a3108a6d338a47c672951a07ad5311649364456d6c21bf65c54ece4cef51c12f1d50c500d7f4c47d863
+Homepage:
+Description: Development files for libxfont2
+
+Package: libfontenc
+Architecture: arm
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 24
+Depends: fontutil
+Filename: dists/termux/x/binary-arm/libfontenc_1.1.3_arm.deb
+Size: 8152
+MD5sum: 454119a2d67b0ed2cdd09ca0747da56f
+SHA1: 5d90795c59c7d46bf3d354222afa7de0e887f85a
+SHA256: c11b28135770ef1a58e22cac973688cddf671cd02e0f0cd7ba891a1ebaf3a2d7
+SHA512: f2da59c2e05af97731261aaa9c721233b4c822223614eaaf001332d1726449230eabd850332e33982df433a203ea3d048fdd17a3cef69493fed04353c66878b6
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libfontenc-dev
+Architecture: arm
+Version: 1.1.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 12
+Depends: libfontenc
+Filename: dists/termux/x/binary-arm/libfontenc-dev_1.1.3_arm.deb
+Size: 3120
+MD5sum: 2cd55df48665a2aabab2e7fe1554e010
+SHA1: 5b8d861a2b4736017af4d581fd48808796543ebc
+SHA256: f3a55fb232c1d926097761104e2398cff1850801732c08e4f63cc9a22b252f98
+SHA512: df5410b30d8a14a2f29a83a090d258a7d62c5dc81b830d3a8fe4beb51f78ebb9395decf7c568852d006982731f33419fcdc2da09b0189a99cb6a5e2731a0ad63
+Homepage: https://www.x.org
+Description: Development files for libfontenc
+
+Package: fontutil
+Architecture: arm
+Version: 1.3.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 252
+Filename: dists/termux/x/binary-arm/fontutil_1.3.1_arm.deb
+Size: 22864
+MD5sum: 89476f70f3d2d4f7523c6970dbee6b7d
+SHA1: bf0ffe06bb76c887e7a57ac825f48a58947eab8f
+SHA256: 37414cf20d9f592cf21899e7ecca8d4cc55b5f89be1133270a034674fcafbec7
+SHA512: fe39311cf5cfcf4bc2a157aa86d016b0a92909b6abe558744a3f04af67875eafe1e89334285b58015a470e88de745c9f4888df9379fbba6919b6828021ff07cf
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libx11
+Architecture: arm
+Version: 1.6.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 2764
+Depends: x11-proto, xtrans, libxcb, libandroid-support
+Filename: dists/termux/x/binary-arm/libx11_1.6.4_arm.deb
+Size: 559072
+MD5sum: 7afa09d6926a79b54bba42d13a0a59d3
+SHA1: d5370aa6308cfbcff3427ea82d0bf0ff4486e31d
+SHA256: 6e9dc2388020db0794485906c3a00722160d4b893615b95c0123e5302ef75d49
+SHA512: e108513a67bd64bfac7bb04779d5c4c82c3f2076d0e76ddffd84f4df54460a724da745f1ba389201dc9352026bd708e425248496604a2e047df536c28f2a7704
+Homepage:
+Description: FIXME:Add description
+
+Package: libx11-dev
+Architecture: arm
+Version: 1.6.4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 4748
+Depends: libx11
+Filename: dists/termux/x/binary-arm/libx11-dev_1.6.4_arm.deb
+Size: 228192
+MD5sum: 11f9532b425ec3b20097c1ec5162db55
+SHA1: 76eef5acd2e439c6ddff01e0692a1a3b1dc73a18
+SHA256: 3d097983b121fbbac2fc4c05fcb048b2aadee6a91f6c05b731ca46005acdb22d
+SHA512: cf2379ad2a7cb4dbdfad061610a4b377faf58be747cea961975553983ec208833d95cf37059cab02113b4f5187e14ab425f842b1d4fd3ddb42d9bf74c9c26571
+Homepage:
+Description: Development files for libx11
+
+Package: xtrans
+Architecture: arm
+Version: 1.3.5
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 220
+Filename: dists/termux/x/binary-arm/xtrans_1.3.5_arm.deb
+Size: 35816
+MD5sum: de68b398d312ceb5834c32edf77928f4
+SHA1: bd78903735f03c40c2793dcef2d1e0fd8eae0b9b
+SHA256: 1362756a83e72f36762e453866607d70f526cb69944f6e5affef94bf818fbac9
+SHA512: a485cfff7733256d32095f5b2313f0a198844428f8543e63e6849a454b3c0398a9c37b339deb680f45c96db20e663d66657e9037c400d842f6d06f1d79ca3cd5
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxcb
+Architecture: arm
+Version: 1.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 468
+Depends: xcbproto, libxau
+Filename: dists/termux/x/binary-arm/libxcb_1.12_arm.deb
+Size: 75160
+MD5sum: 2437426f583caaca45158a04ccb4db6b
+SHA1: df070e04f3b0b26107e7648e01479fc0a19e007d
+SHA256: 754843026397a28345494b9a9f9ce7df644ff066ad45e2a9dd28dc5283c78b03
+SHA512: de151252d077cf97bd2f59c94e18eff0f10ef824c293f19c3bd2cc566f7a896c94952b923519261984a5996b8bf3e162647affc43ec3d571205d818f3d4e0863
+Homepage:
+Description: FIXME:Add description
+
+Package: libxcb-dev
+Architecture: arm
+Version: 1.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 11192
+Depends: libxcb
+Filename: dists/termux/x/binary-arm/libxcb-dev_1.12_arm.deb
+Size: 239924
+MD5sum: 6f9b921ce58ae7bbcb8e64ddf1425c45
+SHA1: 4f85b24ce4cf7931238af6ee525f2054836629bc
+SHA256: 1cefe01fc0aa4197c2c5b65c40ca7f58587af0aaa7ba2f347fd9957f134d0776
+SHA512: a0d59a2533208f565b83f238bfddea7263aa419b828d5084b59ce04f71b16f57e8da8f9a158d0698221f5dbd7e059c64d57ac5e9f29febef254e12039f2c751e
+Homepage:
+Description: Development files for libxcb
+
+Package: xcbproto
+Architecture: arm
+Version: 1.12
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 972
+Filename: dists/termux/x/binary-arm/xcbproto_1.12_arm.deb
+Size: 98532
+MD5sum: 511d08d751e2525b3535d834ecf436b4
+SHA1: 66088c278dd48f941845230ced009a923f148dbd
+SHA256: f48aa97f6737bf5de07d48de20e83eac28f4ecaa96b5e3b065a1920d20f4619c
+SHA512: 9996e2e6dd2337cf5237d7b64690391eee1db785442a24ef7ff17bab7eaa24a8f4510a53b0efcf30222f862fdc46a63603a627329b5359f128022554bc3bc70c
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxau
+Architecture: arm
+Version: 1.0.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 16
+Depends: x11-proto
+Filename: dists/termux/x/binary-arm/libxau_1.0.8_arm.deb
+Size: 3272
+MD5sum: f9fc870c57b9fe812f8da70958a13721
+SHA1: 12028d2ef23f2a96a1274e2e4bca0ca13235cca4
+SHA256: bce1164a98d16b125241a04a3e7247b7d46c19d11b886b7ca4440646cb39de9d
+SHA512: 7606f96fec0c6245419940be975fd9992a19abe40af7abf32b348c3c89a1bfc58b321d43cef4e717d3aaeb1068d51e732a07e830fe12b3161d3795b099e2e3aa
+Homepage:
+Description: FIXME:Add description
+
+Package: libxau-dev
+Architecture: arm
+Version: 1.0.8
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 48
+Depends: libxau
+Filename: dists/termux/x/binary-arm/libxau-dev_1.0.8_arm.deb
+Size: 4240
+MD5sum: 2e2f2e0368cd66e46e160a164a02bbbb
+SHA1: db1987919c6d02c789515028ecd0c64cf1e01a57
+SHA256: 48362d35e99db0ea5e01d236a8c8007cf760e13cd09f0651ef5c7ec149a6bbbf
+SHA512: ef91c862d7050801d81dd9dba2d643428d3421d462efdbd54ce3a998533f0a614398def4f9a001a2fb80df9c674278c62c33552e9d6ece24df9bda36105046cc
+Homepage:
+Description: Development files for libxau
+
