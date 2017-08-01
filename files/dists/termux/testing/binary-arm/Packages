@@ -46,18 +46,3 @@ SHA512: 04638fee0d24b86183a45627a450b5426d53232ca81f1d59183efaa9bb47272893802843
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive
 
-Package: texlive-dev
-Architecture: arm
-Version: 20170524-3
-Maintainer: Henrik Grimler @Grimler91
-Installed-Size: 324
-Depends: texlive
-Filename: dists/termux/testing/binary-arm/texlive-dev_20170524-3_arm.deb
-Size: 44836
-MD5sum: 143e731f260377d4b5abe7379f7b9d84
-SHA1: 4be03c48223f2e32d7cfd0159f3b8dac8a6ee3f9
-SHA256: 5eac6c0e66c2fd00c901f49105f7a0cc7275164dd84076ab2b96b043966d3e3c
-SHA512: 5da30c1130bded5b953f3c9d681bc806293b161fb085ca557c1ac118b99e899fed7e9cc70d1bba0bbffad4de2d865e70a5b0859c201f88e9d0acf20d308be365
-Homepage: https://www.tug.org/texlive/
-Description: Development files for texlive
-
