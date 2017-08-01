@@ -1,0 +1,15 @@
+Package: texlive
+Architecture: all
+Version: 20170524-4
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 50772
+Depends: wget, perl, xz-utils, gnupg2, texlive-bin (>= 20170524)
+Filename: dists/termux/testing/binary-all/texlive_20170524-4_all.deb
+Size: 6646244
+MD5sum: 6d72b312a2d7e10d67a9aee4ac21b4f5
+SHA1: dca693c8d3da65900fc457bd5214ea7c681f91a9
+SHA256: 8d9cf5269a899ee1952741550dd6168a353c17283ba45bea01a7f969fc3b3cc2
+SHA512: e521c59c865e7e8028052b3313f092a40a0c2ce7d3b38c8aba84febb9efafb993a0529f662995fb2601f63493b63de432f7f06409903f23e323b60c48f4c0f99
+Homepage: https://www.tug.org/texlive/
+Description: TeX Live is a distribution of the TeX typesetting system.
+
