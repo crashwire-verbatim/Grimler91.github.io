@@ -532,3 +532,32 @@ SHA512: ef91c862d7050801d81dd9dba2d643428d3421d462efdbd54ce3a998533f0a614398def4
 Homepage:
 Description: Development files for libxau
 
+Package: libxext
+Architecture: arm
+Version: 1.3.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 48
+Filename: dists/termux/x/binary-arm/libxext_1.3.1_arm.deb
+Size: 17536
+MD5sum: 5ae879207fcd0031878c110a8c7fb0d8
+SHA1: 4d4416fe01b05d82e65d5cee178a83929072420f
+SHA256: 95015b421fb639800b7ec3a15b6294a1b964eaa36e1ecb7943626866c5f1b9f5
+SHA512: 6df6e671c5b37052eacfec2e414067f1cf84babd855acbc03763f29e1be8802bd36818d50584731860a73431323cd891af7f9d6af9785b2f6be63c7cea820372
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: libxext-dev
+Architecture: arm
+Version: 1.3.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 372
+Depends: libxext
+Filename: dists/termux/x/binary-arm/libxext-dev_1.3.1_arm.deb
+Size: 25048
+MD5sum: f0c9b6706c48008303f1e84391cbde1f
+SHA1: a8b4e61c4588d17f016b21a38ad1c15434ce1348
+SHA256: 062f3db788e5787b56894068f286c886b7e51a37b8a65ad3a7154fbf90b70674
+SHA512: 9ef35571756c20322a6db8673e334be9bbfdf70dbba9d58029866269609f2bc23dcb7a947f4839e39c269b7b8b68968acb74533cbafd5b82c66f8b9132c52eed
+Homepage: https://www.x.org
+Description: Development files for libxext
+
