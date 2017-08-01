@@ -19,14 +19,14 @@ Version: 20170524
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 20644
 Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
-Breaks: texlive (<< 20170524-4)
-Replaces: texlive (<< 20170524-4)
+Breaks: texlive (<< 20170524-3)
+Replaces: texlive (<< 20170524-3)
 Filename: dists/termux/testing/binary-arm/texlive-bin_20170524_arm.deb
-Size: 4943696
-MD5sum: 592a5dc7fc458378176415bf146681e6
-SHA1: a81ac559011739a6a60d8dad4c73c4ae8589db96
-SHA256: e8de2afe669a538f02df209c73913075a37c6cb3796096507015477126f929f0
-SHA512: e1c0d0a0dc5745304ef7fa56bcedba05b468808b704a060a9567c607a6adfdf7355554ec142b0d86409a75eda1cbfcc93c66a5cd667dde6fecd8a34c568150e6
+Size: 4944220
+MD5sum: c285fa3dae7b6e360eef16d9eb3a842d
+SHA1: 54e8ae1ccc3c07254898ea13f99988483d928774
+SHA256: feae69cf11187b427b74bc304d784b991573ce886ef67d47aa8207dd249d2a1e
+SHA512: 3941d86eb444fa49d4e119d1e3ac54ffa55a126440c4948362ee5e32b3bce3eb7636e45950c3bd1b6f81266420db029a712e899c96dbe8ae63b4d71b1a8e045e
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 
@@ -36,13 +36,13 @@ Version: 20170524
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 324
 Depends: texlive-bin
-Conflicts: texlive-dev (<< 20170524-4)
+Replaces: texlive-dev
 Filename: dists/termux/testing/binary-arm/texlive-bin-dev_20170524_arm.deb
-Size: 44864
-MD5sum: 2670ea4601ae4a191e96e16abbf326f0
-SHA1: 492a21365a21eddd51f13295509a08ffce210380
-SHA256: 86850d3cb8e552e6847987283f073def74ba4b666464008da4fa371df51e4772
-SHA512: c67c536a8006c6d75dd6cd7bea7370327c638abcb3974a32d00139749ffb8359df6e11ce0992afc91e7de6530963925cf2449bf99bce5ad307e9c61373edd1a8
+Size: 44852
+MD5sum: e0ef922c849eb76a4127809446ac63bc
+SHA1: 8c9166157096278e306143400744ec0187f46f30
+SHA256: c2a050cbe4449a48c9a4c28bdf1bcadc1bc5e43a5b55f09cf453c86209dda918
+SHA512: 04638fee0d24b86183a45627a450b5426d53232ca81f1d59183efaa9bb47272893802843b81a5f862820d0eccb04b76a83fdfcae2bfcc116720082ce3c8bf922
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive
 
