@@ -7,11 +7,11 @@ Depends: texlive-bin
 Conflicts: texlive-dev
 Replaces: texlive-dev
 Filename: dists/testing/texlive/binary-arm/texlive-bin-dev_20170524_arm.deb
-Size: 44860
-MD5sum: 8bf39b67019b021997e2207c10f69a30
-SHA1: 9cf13970ea42bb86e23026c2409ce5e73793a59a
-SHA256: 8ee90ec1708103e2ec7d3e13fd518c4d459280b8122c71bcce3ff444495ba69c
-SHA512: 2de9b33c265603bb7b72f59e1b440327fc6bfad557c243ee2a4017746de6e435536a3e71965eeaaf03329b01c9d4808b1a58afe599d1e587eda5dee79e655993
+Size: 44868
+MD5sum: d09a5cca16e1a0fc2c45c2e78a3d2da5
+SHA1: acdce76bcaeedac233da4bc6f6aec81f101f47d8
+SHA256: 9c2f3538498a0679ee3906d6262cc3edf73b06016bcc002526606888bb003d9a
+SHA512: e3b1f9dc70c1a6e1f8c752356aaf3222d5538d336a70334f896954539add4997d5295dab4b65003ac23f25c594266541f583476fc699e51af2e1aba798108db1
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive
 
@@ -21,14 +21,14 @@ Version: 20170524
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 20644
 Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
-Breaks: texlive (<< 20170524-3)
+Conflicts: texlive (<< 20170524-3)
 Replaces: texlive (<< 20170524-3)
 Filename: dists/testing/texlive/binary-arm/texlive-bin_20170524_arm.deb
-Size: 4943212
-MD5sum: f1119f4d789a24378fad48f83ff1d60f
-SHA1: b6f6a5d3536c35208397af4afbd63b6d382027fe
-SHA256: 201a09529309fc2ef2d3a4887406ff92bdde7cda9ea40a1866455a1cc3d4d76f
-SHA512: 516a361ebc4a19606016525754944bcbdc78f037d1171053bfdc27eb7b4b3c064fc598637d319f2ccdbbb1cbadf1c2675b8733e95639713accfbf7676fc38b86
+Size: 4944452
+MD5sum: 5b64bb5f1b42b65ee527a180bae65ff8
+SHA1: d7d561cc7c2670d803ed49338bfeb06dadc2d6fa
+SHA256: 4b18ccf3d84739dd342320f09c254dfca7bf37e2982f79eecb6984090b422df7
+SHA512: 8c3b9b822873a92f8a867c30d039d25e599110f1d167860c54912c338d15a8e7f160b23401cb211bbf4e56573eddfcccdc9359f244a744001fc1552bbb873e9f
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 
