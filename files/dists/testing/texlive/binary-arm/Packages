@@ -7,11 +7,11 @@ Depends: texlive-bin
 Conflicts: texlive-dev
 Replaces: texlive-dev
 Filename: dists/testing/texlive/binary-arm/texlive-bin-dev_20170524_arm.deb
-Size: 44864
-MD5sum: 3bd8479b200f59ec9a62730153e4a9db
-SHA1: 3eca20011cc7d3e62d20ff11606a09ee2994a849
-SHA256: f5d51e8cd7ca29f7d45e23a8dabcf1f312fbf2d83992e1a50449c99a945b4fab
-SHA512: fe4255f86d9ba017617ffc0f7b44c53bad46c6a7b1945d1cd6af32ddbd919ca14786a6ae1469a9b70b272735d7c224d2d9270673dd95ecbd97bf1e6810d51087
+Size: 44876
+MD5sum: fbdaebb8d2d0de33c999338bebc1c5ef
+SHA1: c3f3dbcbfd97c9d1ba9305dfc674d5a4c2e3b296
+SHA256: 3e616ba9a8f5c2878634ea4bff05c9c339cda485d550cccc7563e81f46ca782a
+SHA512: c49d740943186f5f72fb53b1f46d83f8d548d6fa4a1fde52241a9f65f14af8df41264c40bcbd058558c9d0720121fb47eb2ed268829f273a7a10c54b0210e06f
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive
 
@@ -21,14 +21,14 @@ Version: 20170524
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 20644
 Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
-Conflicts: texlive (<< 20170524-3)
+Breaks: texlive (<< 20170524-3)
 Replaces: texlive (<< 20170524-3)
 Filename: dists/testing/texlive/binary-arm/texlive-bin_20170524_arm.deb
-Size: 4946144
-MD5sum: 92be2cdb4bf31ae161f44a99a866546d
-SHA1: e6008e6a49460fdcc4bf14ae33cc8c3830268d1a
-SHA256: 1dc6d0da76bc1b14aa19100677ec928acacc5bb1bd214c8c562061eec8f381c3
-SHA512: d4640194aec5145c7fe472f3aff93bf05adb1acd897c20c3783a1acc49f5e7e08e695f100c8205e06dc7a86b30591b1c3fc8acece5037d93f1f815329ff13e4e
+Size: 4943912
+MD5sum: 1bef0838c5bc55021325c7ad4d202cc2
+SHA1: 1a84ac179d0c914be04e892f86869da9e1233b38
+SHA256: a909169689a026ac8a31ca70d62747e02b83170b6891f3207f6fdf841a56f1b8
+SHA512: 246ea3dff2e1fa91bf87821498b6691992e35abc2ccae14a044fac86c901cefa39535c69da11c4247b4cfc2e13412fb7030661febaf98d4c2564ad4793e1a50d
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 
