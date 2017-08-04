@@ -7,11 +7,11 @@ Depends: texlive-bin
 Conflicts: texlive-dev
 Replaces: texlive-dev
 Filename: dists/testing/texlive/binary-arm/texlive-bin-dev_20170524_arm.deb
-Size: 44876
-MD5sum: fbdaebb8d2d0de33c999338bebc1c5ef
-SHA1: c3f3dbcbfd97c9d1ba9305dfc674d5a4c2e3b296
-SHA256: 3e616ba9a8f5c2878634ea4bff05c9c339cda485d550cccc7563e81f46ca782a
-SHA512: c49d740943186f5f72fb53b1f46d83f8d548d6fa4a1fde52241a9f65f14af8df41264c40bcbd058558c9d0720121fb47eb2ed268829f273a7a10c54b0210e06f
+Size: 44852
+MD5sum: b435ca14db7c26d69790e82bbbc107be
+SHA1: 05cbcce1ab4e7c445cfccccc518bdcebdf72a4ae
+SHA256: 2c89c238cbf7503110ccdb68fc08d0a97e2425efa4cb85ee1f08d9fc911b3070
+SHA512: 20b36fc6b6fdb65dc8a8a9c1c513ce0d74edb3464539d089228e6a0145b838f9164da9449de31dd089a9c43f779cf33f8bc5b40a5928906b01d9710540217f59
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive
 
@@ -24,11 +24,11 @@ Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libg
 Breaks: texlive (<< 20170524-3)
 Replaces: texlive (<< 20170524-3)
 Filename: dists/testing/texlive/binary-arm/texlive-bin_20170524_arm.deb
-Size: 4943912
-MD5sum: 1bef0838c5bc55021325c7ad4d202cc2
-SHA1: 1a84ac179d0c914be04e892f86869da9e1233b38
-SHA256: a909169689a026ac8a31ca70d62747e02b83170b6891f3207f6fdf841a56f1b8
-SHA512: 246ea3dff2e1fa91bf87821498b6691992e35abc2ccae14a044fac86c901cefa39535c69da11c4247b4cfc2e13412fb7030661febaf98d4c2564ad4793e1a50d
+Size: 4945676
+MD5sum: 31d704df89a8c94b9704f68d21a343ba
+SHA1: d7cf48d96ce2ef186faa6ab80dcf27c621099966
+SHA256: d251fb22cac7c2719e956a0a097a62e5665a0eb3cb143a29f59264a9ab201543
+SHA512: fa3e53fee48f24190cd9edf0d441b6ff13aaceeb604f9febc277a8ce7540c04635c399d011d547e719e355123750953a216fcab884dd0cd4d08d13b71e3630ff
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 
