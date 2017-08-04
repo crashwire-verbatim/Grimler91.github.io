@@ -4,12 +4,12 @@ Hash: SHA256
 Architectures: arm all
 Codename: termux
 Components: main
-Date: Fri, 04 Aug 2017 10:09:37 +0000
+Date: Fri, 04 Aug 2017 10:25:45 +0000
 Label: Package testing by Grimler
 Origin: termux packages testing
 Suite: testing
 MD5Sum:
- 968a6338698aab2ceebdd316bbeff9fc              176 Release
+ 8860f0fde774f2e869d3987556b80540              176 Release
  9ac51145820a967484c5370ea215f524              672 texlive/binary-all/Packages
  673b9018a3b96631ae7c7b88e5162fa8              534 texlive/binary-all/Packages.bz2
  5ba0332c64edd1320c32a441c3a90b9e             1438 texlive/binary-arm/Packages
@@ -19,7 +19,7 @@ MD5Sum:
  1d78ac7220007eb9983fc9c441f238c0            24566 x/binary-arm/Packages
  ffe79da58afde7179b4e1779c07bd031             7997 x/binary-arm/Packages.bz2
 SHA1:
- f14a5bb11e26d006fb8e54223a3cea9f0989193d              176 Release
+ 5d930382a3256db764620ebe7c549a2e27d24798              176 Release
  8ee6fca8fd30a6ce7082159cb69096ab6443a74e              672 texlive/binary-all/Packages
  1369801b682ce1a60530301792b48b22b66c796a              534 texlive/binary-all/Packages.bz2
  c601e2abff12fba45d004e3111693edcff3752cf             1438 texlive/binary-arm/Packages
@@ -29,7 +29,7 @@ SHA1:
  62971a8f7e7817d7332ae8e3f4d7ce5c4a5dd62d            24566 x/binary-arm/Packages
  2b778d8b82491006020f1e86c341e2fcc522ed36             7997 x/binary-arm/Packages.bz2
 SHA256:
- 0081948060e50d1dbfdf3f46dd83f5643d44f120a729181cdd4aa1c6417f1ea4              176 Release
+ 17c66aa4cd87a86b16dd2a7d38d31d9d3baf94a35ca5333c6ffda7aab9a70464              176 Release
  aa0f74ca62220581b450c9f67b53fe55999e50f2fcf42a27c0e5d0470e567a05              672 texlive/binary-all/Packages
  1dd2ed1fbee514f6785bdfcd0f8af1dc3860f25da2e2bb43363ac2b63b211889              534 texlive/binary-all/Packages.bz2
  1a3c205dbf9781187b910c715faaf01d5660eb32b23b3baeed73214783a2a13b             1438 texlive/binary-arm/Packages
@@ -39,7 +39,7 @@ SHA256:
  ab525d1eade21331618d92b1c2cb8270cd0c6e2c41b2302446cff32373f047d7            24566 x/binary-arm/Packages
  5e7a2654e63c34c6a88e17facdb2bfc37a2f2a331e6ce7351d308ab35e7c9163             7997 x/binary-arm/Packages.bz2
 SHA512:
- 85f0c19385398b6a1642e2e95fcba64276f019da3d97780d0f7cba44c6203d05795b5db9665d87a942a99fc3f36c408a56020936e9f2e848de4720087e1f27f6              176 Release
+ ebd6bdb5768d4787726437e2199cdd93df6b98972f15967fddb4aa884b2f6399038ff8e138d53ddcc7adda15afb24694a5649171f6254ffee139c68b415689f9              176 Release
  dd5bb1ae8cf38eb6cc9677ae9d69301226deb1e087037105fabf1bcb0f09484be65388bd96ca2971c9fff4677ea53126baca7989c8cb96fb23f5b433f9b0c66f              672 texlive/binary-all/Packages
  5d6471cc50963898d821387b35bc0e687a9285412c341626e85d327e3ea2386f340bb71c0dfd9038701573ba34bfa4f2c77638df942f1b062cee76823406b858              534 texlive/binary-all/Packages.bz2
  c5092179cdea71320827a508f42d8ee106193c104d10f1a9a29888a0cf2406e869b4a827a03876ac3fa295bff127dafa5a7101a8b9b7b4c69d4f22e2c60d84c7             1438 texlive/binary-arm/Packages
@@ -50,11 +50,11 @@ SHA512:
  2658d2c3c7e981e24f3170c11d046e82f75d1b04c98504bedb5acf38c53765a07521ed65a5f82ba63ebfe45624f0cbd0fb43ec799d627b5cd4224ba3b3e6b1c7             7997 x/binary-arm/Packages.bz2
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCAAGBQJZhEfnAAoJEFqqyeCka+U8PRoIAIMoaT3Q8GFSsupP3mI8cUZz
-N8syqK89CVyHZgvH6SUWQnTgb6jvHfwr1ORa5tA7sWuH4T15isR9StI7kdNYQPRI
-NbQUKjdkoqQVUyAeYWbadhFfiiQs3RygkuZVcmG+xWnKw3hOc7eIa2qaIhwxT04x
-0vke6Wl8TAbPPM4SfE3ijrdDFqr9km34BQUd3qKgaRgWtnJn4cv87C870BJcBo1X
-fz7WxqZjo9BVQjM9GTuLyQ0JpxecDliXFa6zes/J5qvFaZwAheIN565kp/7Kw17M
-WH2/D2pqLPSh24mpMf+xmbyjTno1vRKa/I7Z3Fo92hFug8/V/sDn92PPlTlxDA8=
-=2YKb
+iQEcBAEBCAAGBQJZhEupAAoJEFqqyeCka+U8JoYH/0nZ4/TOCqbriJ2i022wHL8i
+VLE38tQPT7G0d32mxtp2Ca5rOwpjQUY0fyYPBpez98mZ3sPPx1MHiztQpIx4naV/
+MkBImJjjno9h52wFVsRYwTdw3lQ63NDzUxBcAqWBZ4l6kSRQdDY4nYoBrVWjBd+B
+tP9ZBCgNJOfD7PYaq/WH1YC4fFiBVnU/k3h0eAFpfQqYHsiD/z4K34bhP4N0wtoU
+WTCH3282/lmtYdv4a5XBhx4AxqMYiJJNISejtMqIjnklWIFLKGIjVHZ4WHVNw7xk
+fRsw2ABkLx9Ke5BKf8ANsDmbqjzWuVnlvOMuDrATEGMozwCvLp+5Hd/HYRbE8AY=
+=rAYt
 -----END PGP SIGNATURE-----
