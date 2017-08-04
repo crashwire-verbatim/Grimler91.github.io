@@ -1,12 +1,12 @@
 Architectures: arm all
 Codename: termux
 Components: main
-Date: Fri, 04 Aug 2017 11:14:12 +0000
+Date: Fri, 04 Aug 2017 11:30:59 +0000
 Label: Package testing by Grimler
 Origin: termux packages testing
 Suite: testing
 MD5Sum:
- 4ad962e0b30cff5bba4778edae13f8c5              176 Release
+ 90ee935ede2d8ae6c1cdb0431ba28c95              176 Release
  7f861de03d59bab1670929d76aa3715f              673 texlive/binary-all/Packages
  2e3d9c21804e21ad5f239fa7a73d400a              530 texlive/binary-all/Packages.bz2
  52f86f813dff1db2f666b5a95f3fe54b             1440 texlive/binary-arm/Packages
@@ -16,7 +16,7 @@ MD5Sum:
  04fb7f32c84c0e755840c93612195aa8            24609 x/binary-arm/Packages
  45aff7d28a666fd89e214f0d41794128             8018 x/binary-arm/Packages.bz2
 SHA1:
- c0d243ad747ca52966d043474e2203787e0592b7              176 Release
+ f190245e9be2665c48edc410d62beada9efdf769              176 Release
  9458e1d4a71182cdbde9c4870c37045101d997f2              673 texlive/binary-all/Packages
  d9dcbfa5ad97438efc363f380e8748ccdadec8d0              530 texlive/binary-all/Packages.bz2
  97c48565f74d66fb32f3e15388e2d854b4dc57bc             1440 texlive/binary-arm/Packages
@@ -26,7 +26,7 @@ SHA1:
  964f5304ab440359858412c61feb50f873b81500            24609 x/binary-arm/Packages
  37fb304124094d556310900a0aa7e6271f4f8273             8018 x/binary-arm/Packages.bz2
 SHA256:
- cb22e770d642e24978fac8bbfe03dde1e09f3041e1bb4a97b68b96b0a283c53d              176 Release
+ 7f06c65ddd3311d5f9706907ada2668072b9a280ebc2971d8a1f840f3e88ba35              176 Release
  b92f444e7d0a0e2f37ab0d2782a50d2e9217c2ecb5033aa7cfeca1720a3ab3eb              673 texlive/binary-all/Packages
  82d6a4be54ee9ae2b49fe8f9176e0027fb04776b63b7a0bc64dd97e194caff8f              530 texlive/binary-all/Packages.bz2
  bdff36d6605e70e29ed7bfddc915b5e978e3357c4839bc30e2ffcd9c0192ace6             1440 texlive/binary-arm/Packages
@@ -36,7 +36,7 @@ SHA256:
  8760caa2d9ed28933631bcc42406b4614eb20295ad29ed079f6f0870cfed2416            24609 x/binary-arm/Packages
  89bd07b20419575be9824874a0389e97b7ba7c83109d3745d0d422bece00189d             8018 x/binary-arm/Packages.bz2
 SHA512:
- 3015e337bc4328db78652b539e869502bf383e3d0bbed8665082f228bf170ca0a1bfcc27298d82e68c5aea9b37d7a489afc4940d910a7c9c3d8bdc80a9ba7ac4              176 Release
+ 6652ffcb045a64eb4c62cc68ed8c89d545c06be55af768d8b73e3fb66ab3190be902b101fdd14c03f9c8b0e51ed77b6c0db9050477e1b9c3ccee18f833ad241f              176 Release
  1879044ac598b220cdc39401fd91efdc27676e62989ab8a7aaf4f6945c3bea848b985bf6c65714292d353f18128173e34e03c847b502d82198ed243527044d4e              673 texlive/binary-all/Packages
  5866b7562855f89e50cbf0964e809a61b60dc2601604e12663c7d51701b295bdcb6f56357d6b297f4c8375bd289e4477e131b1ea08ec24f41c30303cabb0ab0c              530 texlive/binary-all/Packages.bz2
  2faae17a10ee5ff47a5b59b5d00974ae4909bd4aef24811e9d1f6fa4454dc400586e1010e3f508faa1905a17a677940ecde8175aca6946f5dc7196bf96265f2f             1440 texlive/binary-arm/Packages
