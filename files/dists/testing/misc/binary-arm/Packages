@@ -1,0 +1,30 @@
+Package: openvpn-dev
+Architecture: arm
+Version: 2.4.2
+Maintainer: Vishal Biswas @vishalbiswas
+Installed-Size: 36
+Depends: openvpn
+Filename: dists/testing/misc/binary-arm/openvpn-dev_2.4.2_arm.deb
+Size: 7784
+MD5sum: 4026780af439621325b0d9e16dd81b24
+SHA1: b9d6acd329cad36a2ab37f462777dc252793b773
+SHA256: 8d5bd553e80fcb84bdb79f9f2437edb6ad9da0f308d6d195e50f89c9dae06200
+SHA512: 6b9b666afa16258e6f1d0d74a41295443c84040e168b7db15fcf58f0f61de746169fc30e96676fc7c5fec1a745e8403c5720becdc96249d89c200c169ccf6593
+Homepage: https://openvpn.net
+Description: Development files for openvpn
+
+Package: openvpn
+Architecture: arm
+Version: 2.4.2
+Maintainer: Vishal Biswas @vishalbiswas
+Installed-Size: 772
+Depends: openssl, liblzo, net-tools
+Filename: dists/testing/misc/binary-arm/openvpn_2.4.2_arm.deb
+Size: 281364
+MD5sum: 77e8cfe155cbeca04928ab30331b0007
+SHA1: 7c4cb55dffc0a7a8b724555ea4d33ed3d9fa49fc
+SHA256: d14fe95e38a6c546af58239e4ca96f6ba8972e6f075089fa1d555cd5db80bc36
+SHA512: ec3c8a01b16dba9030c0e0ac2f61f8680a18b0d2889aeda331b8494922e094d040727ea1776c764475e95dc88541ec9dddfed41f570514c3961be8e492281a7b
+Homepage: https://openvpn.net
+Description: An easy-to-use, robust, and highly configurable VPN (Virtual Private Network)
+

@@ -9,7 +9,7 @@ echo Rebuilding APT repository:
   export KEYNAME=9B4E7D27395024EA5A4FC6395AAAC9E0A46BE53C
   cd files
 
-  for folder in dists/testing/{texlive,x}/{binary-arm,binary-all}; do
+  for folder in dists/testing/{texlive,x,misc}/{binary-arm,binary-all}; do
     if [ -d "$folder" ]; then
       apt-ftparchive packages $folder > $folder/Packages
       bzip2 -kf $folder/Packages
