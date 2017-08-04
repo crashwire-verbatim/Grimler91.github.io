@@ -1,0 +1,14 @@
+Package: x11-proto
+Architecture: all
+Version: 1.19.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1304
+Filename: dists/termux/x/binary-all/x11-proto_1.19.1_all.deb
+Size: 143924
+MD5sum: 1a4e0b02795b4218d9cdb6da5855a76f
+SHA1: 1e378224050e77a508d5d1870efef40f327ae91c
+SHA256: 0a2a97de4dbdeba1f9dec54fe677649d0e849f094ae7e01d92ac58b499409e9b
+SHA512: 353a3f8ee1fd0b29f8bbb30f09743a2d8ecd1a357b3472d5d4d3ab8eafa651f7eddf07492b71f394d6b7d102c9270bfea0de2f6b8ee9a03c92cf747b8be1bb17
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
