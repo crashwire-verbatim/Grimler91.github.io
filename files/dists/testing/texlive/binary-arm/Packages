@@ -6,12 +6,12 @@ Installed-Size: 324
 Depends: texlive-bin
 Conflicts: texlive-dev
 Replaces: texlive-dev
-Filename: dists/termux/testing/binary-arm/texlive-bin-dev_20170524_arm.deb
-Size: 44864
-MD5sum: 767a4b5eed86fa97237ecb28dcd338ed
-SHA1: 055fd7648035f50583fe50659b7c0b47fbf374dd
-SHA256: 3b923f9fb38a3ed3461728b88f3a7feb5d24898ca6d8f0ce603eee341c40cabd
-SHA512: 0a7ab501c21b2aae30d977ca485ab4c97fb90a2a852abf5574c14a2734412ec110b80b13095fb62db1be33bc1a7a78561329a10b3c36b4704bfc9aeecd04284f
+Filename: dists/testing/texlive/binary-arm/texlive-bin-dev_20170524_arm.deb
+Size: 44860
+MD5sum: 8bf39b67019b021997e2207c10f69a30
+SHA1: 9cf13970ea42bb86e23026c2409ce5e73793a59a
+SHA256: 8ee90ec1708103e2ec7d3e13fd518c4d459280b8122c71bcce3ff444495ba69c
+SHA512: 2de9b33c265603bb7b72f59e1b440327fc6bfad557c243ee2a4017746de6e435536a3e71965eeaaf03329b01c9d4808b1a58afe599d1e587eda5dee79e655993
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive
 
@@ -23,12 +23,12 @@ Installed-Size: 20644
 Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
 Breaks: texlive (<< 20170524-3)
 Replaces: texlive (<< 20170524-3)
-Filename: dists/termux/testing/binary-arm/texlive-bin_20170524_arm.deb
-Size: 4945504
-MD5sum: 56e23f8356caccb48c8cc00b0310f7b1
-SHA1: a5f21742c29d18d5e376d85ac7fe8de3d425e584
-SHA256: d5d198f200e2bf9f8bf3cbb3909dbfa5deb07224f40350b947b0fe7d75f44376
-SHA512: e8d6b1fbf683606f467d9da01023872e1ea1183737ef3ec03dfa7916cba16c7751cd1c2dfeea55c4ed5153eb8fd064da06bc621e86a11029a1248006fe0310d4
+Filename: dists/testing/texlive/binary-arm/texlive-bin_20170524_arm.deb
+Size: 4943212
+MD5sum: f1119f4d789a24378fad48f83ff1d60f
+SHA1: b6f6a5d3536c35208397af4afbd63b6d382027fe
+SHA256: 201a09529309fc2ef2d3a4887406ff92bdde7cda9ea40a1866455a1cc3d4d76f
+SHA512: 516a361ebc4a19606016525754944bcbdc78f037d1171053bfdc27eb7b4b3c064fc598637d319f2ccdbbb1cbadf1c2675b8733e95639713accfbf7676fc38b86
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 

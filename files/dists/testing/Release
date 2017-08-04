@@ -1,47 +1,47 @@
 Architectures: arm all
 Codename: termux
 Components: main
-Date: Fri, 04 Aug 2017 10:25:45 +0000
+Date: Fri, 04 Aug 2017 11:14:12 +0000
 Label: Package testing by Grimler
 Origin: termux packages testing
 Suite: testing
 MD5Sum:
- 8860f0fde774f2e869d3987556b80540              176 Release
- 9ac51145820a967484c5370ea215f524              672 texlive/binary-all/Packages
- 673b9018a3b96631ae7c7b88e5162fa8              534 texlive/binary-all/Packages.bz2
- 5ba0332c64edd1320c32a441c3a90b9e             1438 texlive/binary-arm/Packages
- afae6401a2921b2d1dab05a6930d94cf              854 texlive/binary-arm/Packages.bz2
- 3c0f7786a47163cc4f76323858df77e0              549 x/binary-all/Packages
- 9fc434e7e3e97fd6d67c9d655945eccd              432 x/binary-all/Packages.bz2
- 1d78ac7220007eb9983fc9c441f238c0            24566 x/binary-arm/Packages
- ffe79da58afde7179b4e1779c07bd031             7997 x/binary-arm/Packages.bz2
+ 4ad962e0b30cff5bba4778edae13f8c5              176 Release
+ 7f861de03d59bab1670929d76aa3715f              673 texlive/binary-all/Packages
+ 2e3d9c21804e21ad5f239fa7a73d400a              530 texlive/binary-all/Packages.bz2
+ 52f86f813dff1db2f666b5a95f3fe54b             1440 texlive/binary-arm/Packages
+ a01b02d8d50c531aca36b785f07b4e9d              861 texlive/binary-arm/Packages.bz2
+ 261c3c5150e857729cc59180b8cd3a67              550 x/binary-all/Packages
+ ad971dfcb89b38dca3ad43c274259ee4              430 x/binary-all/Packages.bz2
+ 04fb7f32c84c0e755840c93612195aa8            24609 x/binary-arm/Packages
+ 45aff7d28a666fd89e214f0d41794128             8018 x/binary-arm/Packages.bz2
 SHA1:
- 5d930382a3256db764620ebe7c549a2e27d24798              176 Release
- 8ee6fca8fd30a6ce7082159cb69096ab6443a74e              672 texlive/binary-all/Packages
- 1369801b682ce1a60530301792b48b22b66c796a              534 texlive/binary-all/Packages.bz2
- c601e2abff12fba45d004e3111693edcff3752cf             1438 texlive/binary-arm/Packages
- 767d5d8691ed047df7b21d0b9eb7b5657942509b              854 texlive/binary-arm/Packages.bz2
- 50a89168e0f4e014e7b0487da05187a79934a6aa              549 x/binary-all/Packages
- dcde041f049d410eaaa84dc949322c98ea0d902a              432 x/binary-all/Packages.bz2
- 62971a8f7e7817d7332ae8e3f4d7ce5c4a5dd62d            24566 x/binary-arm/Packages
- 2b778d8b82491006020f1e86c341e2fcc522ed36             7997 x/binary-arm/Packages.bz2
+ c0d243ad747ca52966d043474e2203787e0592b7              176 Release
+ 9458e1d4a71182cdbde9c4870c37045101d997f2              673 texlive/binary-all/Packages
+ d9dcbfa5ad97438efc363f380e8748ccdadec8d0              530 texlive/binary-all/Packages.bz2
+ 97c48565f74d66fb32f3e15388e2d854b4dc57bc             1440 texlive/binary-arm/Packages
+ 608f1122639432c8b12ae3a21e7bbdfbcf1ae499              861 texlive/binary-arm/Packages.bz2
+ dd7516913060a807ef0ee5159e2b976f13cd026d              550 x/binary-all/Packages
+ eefca36cd3f4c5dfa5545f2c66a45578da827f13              430 x/binary-all/Packages.bz2
+ 964f5304ab440359858412c61feb50f873b81500            24609 x/binary-arm/Packages
+ 37fb304124094d556310900a0aa7e6271f4f8273             8018 x/binary-arm/Packages.bz2
 SHA256:
- 17c66aa4cd87a86b16dd2a7d38d31d9d3baf94a35ca5333c6ffda7aab9a70464              176 Release
- aa0f74ca62220581b450c9f67b53fe55999e50f2fcf42a27c0e5d0470e567a05              672 texlive/binary-all/Packages
- 1dd2ed1fbee514f6785bdfcd0f8af1dc3860f25da2e2bb43363ac2b63b211889              534 texlive/binary-all/Packages.bz2
- 1a3c205dbf9781187b910c715faaf01d5660eb32b23b3baeed73214783a2a13b             1438 texlive/binary-arm/Packages
- 97d02768a14ca4ac705f621969704ed2d6b83154bedac0dba07bcb73e57aacac              854 texlive/binary-arm/Packages.bz2
- 4edf34733480e6afc7315643a0cb0882c3062a2d49dde9b01715627244ad32fe              549 x/binary-all/Packages
- 556cf4b07f48dc59ca3c1679418b8b7111f1d6744d83b15471c17205cd6d7bc9              432 x/binary-all/Packages.bz2
- ab525d1eade21331618d92b1c2cb8270cd0c6e2c41b2302446cff32373f047d7            24566 x/binary-arm/Packages
- 5e7a2654e63c34c6a88e17facdb2bfc37a2f2a331e6ce7351d308ab35e7c9163             7997 x/binary-arm/Packages.bz2
+ cb22e770d642e24978fac8bbfe03dde1e09f3041e1bb4a97b68b96b0a283c53d              176 Release
+ b92f444e7d0a0e2f37ab0d2782a50d2e9217c2ecb5033aa7cfeca1720a3ab3eb              673 texlive/binary-all/Packages
+ 82d6a4be54ee9ae2b49fe8f9176e0027fb04776b63b7a0bc64dd97e194caff8f              530 texlive/binary-all/Packages.bz2
+ bdff36d6605e70e29ed7bfddc915b5e978e3357c4839bc30e2ffcd9c0192ace6             1440 texlive/binary-arm/Packages
+ 20a3b04c4dfe756fa77380656f55a3978f1bed3fd9c98bb4e460d3813c23844e              861 texlive/binary-arm/Packages.bz2
+ cfe977e9652b65bd1cca1418437f0b337290808c6379c49e4155db52c09ccb59              550 x/binary-all/Packages
+ aa170ecf1d5b932fcefc4713720d778fa68ae6da07521a502401339b19be008b              430 x/binary-all/Packages.bz2
+ 8760caa2d9ed28933631bcc42406b4614eb20295ad29ed079f6f0870cfed2416            24609 x/binary-arm/Packages
+ 89bd07b20419575be9824874a0389e97b7ba7c83109d3745d0d422bece00189d             8018 x/binary-arm/Packages.bz2
 SHA512:
- ebd6bdb5768d4787726437e2199cdd93df6b98972f15967fddb4aa884b2f6399038ff8e138d53ddcc7adda15afb24694a5649171f6254ffee139c68b415689f9              176 Release
- dd5bb1ae8cf38eb6cc9677ae9d69301226deb1e087037105fabf1bcb0f09484be65388bd96ca2971c9fff4677ea53126baca7989c8cb96fb23f5b433f9b0c66f              672 texlive/binary-all/Packages
- 5d6471cc50963898d821387b35bc0e687a9285412c341626e85d327e3ea2386f340bb71c0dfd9038701573ba34bfa4f2c77638df942f1b062cee76823406b858              534 texlive/binary-all/Packages.bz2
- c5092179cdea71320827a508f42d8ee106193c104d10f1a9a29888a0cf2406e869b4a827a03876ac3fa295bff127dafa5a7101a8b9b7b4c69d4f22e2c60d84c7             1438 texlive/binary-arm/Packages
- cef855d96f3a59184d4029cdaf1558a4f4e60d77adffe839923df3090b34a4959490dcee5211367b7224aac6dd7b8bc8e1d230d5a41c0f0d13e47bfd7c762fcf              854 texlive/binary-arm/Packages.bz2
- 580ea8ecee63a7b1992aa8384bb85bfb9581759c2c4fcf95716e19f8031045dc52a3bfd857f54afe6c0d3000596a60f4a6e7b593875edda4538073956ecf3846              549 x/binary-all/Packages
- 0b778b8e6ae0c7673a03a9a5ecc4b372eb82c912c8292d685fbe6b377ce0c820c3a723aedc0e984dce4f0c9b197bb07149921b72df8021c20a2d24714c1d4349              432 x/binary-all/Packages.bz2
- 52bae87cc7b0dba56b7e8929b985c9aa2f0f82c11a6f4aacfc8bc37d7759c8cba8c576946566cb759bc4679ab862ac9d73236d1e00160c437a561ff34104d96e            24566 x/binary-arm/Packages
- 2658d2c3c7e981e24f3170c11d046e82f75d1b04c98504bedb5acf38c53765a07521ed65a5f82ba63ebfe45624f0cbd0fb43ec799d627b5cd4224ba3b3e6b1c7             7997 x/binary-arm/Packages.bz2
+ 3015e337bc4328db78652b539e869502bf383e3d0bbed8665082f228bf170ca0a1bfcc27298d82e68c5aea9b37d7a489afc4940d910a7c9c3d8bdc80a9ba7ac4              176 Release
+ 1879044ac598b220cdc39401fd91efdc27676e62989ab8a7aaf4f6945c3bea848b985bf6c65714292d353f18128173e34e03c847b502d82198ed243527044d4e              673 texlive/binary-all/Packages
+ 5866b7562855f89e50cbf0964e809a61b60dc2601604e12663c7d51701b295bdcb6f56357d6b297f4c8375bd289e4477e131b1ea08ec24f41c30303cabb0ab0c              530 texlive/binary-all/Packages.bz2
+ 2faae17a10ee5ff47a5b59b5d00974ae4909bd4aef24811e9d1f6fa4454dc400586e1010e3f508faa1905a17a677940ecde8175aca6946f5dc7196bf96265f2f             1440 texlive/binary-arm/Packages
+ 1fb3c25f3852770c96cea280c28365195d5c1ef53cb0c1311ef05df43f2132ec7c62a004fe3eb9ee8db101c877d4f3ae0d37d3f6c7d4479714df4f1e6cc5c8c4              861 texlive/binary-arm/Packages.bz2
+ 442fd7540af3b18d64fcaa5ce0688489f76498876d719b40d86620d857b1f501758c2631fb41f2dd8efbb572297f85aee1bd464c84cf5ce699852c49d44bdebf              550 x/binary-all/Packages
+ 7b2a5624cbc0aa2906913ddd1bce19cb3b04c621a90fd19ea00ba220e5e63e2083525f9f65fc0624cd5fc35939010d825b042cca96e54dc231cd122a41aa06bc              430 x/binary-all/Packages.bz2
+ 748b569c264fdefaf35452d8ba27fc622a1e772197dd84e873317bb2180cecb93c1b748951cd42b0141fa7d6bca4fd9e322671884b095067ffe7a76585fdc678            24609 x/binary-arm/Packages
+ 28581109e2e5a9362f8cdf279ed0baefc72a47f9ac4cce6ece49a2195130e779e8cf73d16828260eea55b8f2e2b23fe0b682bc7ddb9ffe65a04377e835bace0f             8018 x/binary-arm/Packages.bz2

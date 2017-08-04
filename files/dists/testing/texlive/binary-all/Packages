@@ -4,12 +4,12 @@ Version: 20170524-3
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 50656
 Depends: wget, perl, xz-utils, gnupg2, texlive-bin (>= 20170524)
-Filename: dists/termux/testing/binary-all/texlive_20170524-3_all.deb
-Size: 6645528
-MD5sum: 22fa8e1d61c0d4dba3ea302cb425f21c
-SHA1: a16e7097952d4b64d1d0156dd1add62d3a8f14fe
-SHA256: 3b5787d6ef7aa0f46e79a7cbec9e5666c23b900a47579af6174780c7af2337d9
-SHA512: b18e5100437729039b2bdd4947f4b7939759b40669f0ff5cda5d77d1901cbdceddac32877f0fe76b6edfd42677ef3cdf3f0114c494c232f5745263592c1cee85
+Filename: dists/testing/texlive/binary-all/texlive_20170524-3_all.deb
+Size: 6652060
+MD5sum: 20a0c2cd07722eb336998a3db08a464e
+SHA1: b363a99b878bdb35cbe17515ae15947262aa0f01
+SHA256: de630f61e3cfc4e325383b932a5f40d1807494b19236d63599b4309834c246ac
+SHA512: e78806cbacf98dc889e5a5e134a335d9517a0d8c553c0f26725c249c3e1be064d9661a999800555ccea69b4331ce95f69012722f8650f5747f914c9230160850
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 

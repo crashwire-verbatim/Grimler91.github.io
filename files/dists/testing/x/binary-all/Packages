@@ -3,7 +3,7 @@ Architecture: all
 Version: 1.19.1
 Maintainer: Fredrik Fornwall @fornwall
 Installed-Size: 1304
-Filename: dists/termux/x/binary-all/x11-proto_1.19.1_all.deb
+Filename: dists/testing/x/binary-all/x11-proto_1.19.1_all.deb
 Size: 143924
 MD5sum: 1a4e0b02795b4218d9cdb6da5855a76f
 SHA1: 1e378224050e77a508d5d1870efef40f327ae91c
