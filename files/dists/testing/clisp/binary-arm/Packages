@@ -5,11 +5,11 @@ Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 12
 Depends: libsigsegv
 Filename: dists/testing/clisp/binary-arm/libsigsegv-dev_2.11_arm.deb
-Size: 3676
-MD5sum: afad7bbf155bcf5551bdc6ada635fe90
-SHA1: 3f6c10256dc1993c0afd68c989ee5124e2fac9e0
-SHA256: 13032e9c30495377aa0a33174e54f4347d8ae626816487f6d8bca475bf40bd1a
-SHA512: eb49df49614a8ec832623e81cf72af28076c470687fd8e12b1b75abe0816a18f4a82c1173b65b12017497d54307e18c6ea1a046b7a3ffddadb66e789d0accdeb
+Size: 3684
+MD5sum: 5ff86c85320dc1035e6fda280d86b41b
+SHA1: b5c9f163d1cc9b35f6482e66d3bec3b881caf7d8
+SHA256: beaa3890ae6e842eb9e3bb59ea68195975f016890a8e0c0bbe44009cb8ebc4e5
+SHA512: d15679bac1b19d8168ea0014065ffb68e27d144d295f90593d215e62c6459f4d1e5f5ec668d9632e621ec8f1f7c94e097237218974bfaa2f6e1a5cacdf766f3f
 Homepage: https://www.gnu.org/software/libsigsegv/
 Description: Development files for libsigsegv
 
@@ -19,11 +19,11 @@ Version: 2.11
 Maintainer: Henrik Grimler @Grimler91
 Installed-Size: 16
 Filename: dists/testing/clisp/binary-arm/libsigsegv_2.11_arm.deb
-Size: 6708
-MD5sum: 18a5535fd3510da0b85f39ae26e542c9
-SHA1: b0256426fedacc985b09b1d266742b379cb2fceb
-SHA256: cc482bc560c38d229e53af3b7acb38314201d3fac332c286ef3eca4b60773d22
-SHA512: 61c520820c3227722e467965e5ce6375ed0773aab8bef4cb1c04910c7a23987e05f72278ef67447a265cf738986e2dd7ec5013d31bc55fb432be7b88bbd7da8e
+Size: 6720
+MD5sum: 25b9073c9f15e1defdab66ef89d1b4cd
+SHA1: cab600bb70c6b633c3a507b00755052adce83053
+SHA256: c1a240ccb3ad58fd911be26d62fb764a16ab198ee485b3ad5050bc0bea14be96
+SHA512: 31ef99807610d1019767470affb0df16ddbe8b070bbf633576d7eefcd886926d00a61587e34a656c296dc438bc39701155999cd4e9bd1e482dbf0e86918e9956
 Homepage: https://www.gnu.org/software/libsigsegv/
 Description: Library for Handling Page Faults in User Mode.
 
