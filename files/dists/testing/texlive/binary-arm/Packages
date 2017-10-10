@@ -32,3 +32,21 @@ SHA512: fa3e53fee48f24190cd9edf0d441b6ff13aaceeb604f9febc277a8ce7540c04635c399d0
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 
+Package: texlive-bin
+Architecture: arm
+Version: 20170524-4
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 25316
+Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
+Recommends: texlive
+Breaks: texlive (<< 20170524-3)
+Replaces: texlive (<< 20170524-3)
+Filename: dists/testing/texlive/binary-arm/texlive-bin_20170524-4_arm.deb
+Size: 5952388
+MD5sum: e6e3bc6578405f569e894ed7e143c676
+SHA1: 3390a9db6edef4d2e27545cf134f793fd820844f
+SHA256: f19d1d38def931cda40eb24ce442a543b04dcb2327f0da61e3aa3d344444a797
+SHA512: 1b7448c773f141df8afb0e8bf0dae4b8d340249a216a2698c7cd9344cb0095154ba2a8bd3d3eaa993583e3895b1aa831373812620a56d6d551ec40acd1cb892e
+Homepage: https://www.tug.org/texlive/
+Description: TeX Live is a distribution of the TeX typesetting system.
+
