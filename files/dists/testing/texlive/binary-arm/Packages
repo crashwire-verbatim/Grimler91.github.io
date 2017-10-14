@@ -26,11 +26,11 @@ Recommends: texlive
 Breaks: texlive (<< 20170524-3)
 Replaces: texlive (<< 20170524-3)
 Filename: dists/testing/texlive/binary-arm/texlive-bin_20170524-5_arm.deb
-Size: 5952804
-MD5sum: 6688d92147e45dc2bc701b6c9de181a7
-SHA1: cbd0babd4d4403b442763d6edbf0789c1777c537
-SHA256: 6256f7ffd823de32b6157fafbce02762dca043084829fb3e08ceef3195602822
-SHA512: 0e7cbd2afaa046eabc76e679a083c63fe999610d6bf0d3e630223e5917bab5438aedd3779dfbc3d8ef0e9358f45be9b061d28f1bc86aa8b42852efcb188892e2
+Size: 5955080
+MD5sum: c5c65303e808624e07919489c6edc87b
+SHA1: 35fd7c0c5fc27bf7fa5a94257a889a7c53930d60
+SHA256: 08adaa3ae52a9991b49cdb4c3e21449a211490b4642930ada70b449bf9c90b09
+SHA512: 44f7358349502ef0c3e54003adbe10f51354a610da95fe6d6976cd87a50803b8ff5fbbd83a7a24a819ae617c901c1d22068542450bc9231a018d9391c9fd07a6
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 

@@ -8,11 +8,11 @@ Recommends: texlive
 Breaks: texlive (<< 20170524-3)
 Replaces: texlive (<< 20170524-3)
 Filename: dists/testing/texlive/binary-x86_64/texlive-bin_20170524-5_x86_64.deb
-Size: 6370488
-MD5sum: 005415d6159efcc2d1f96cb84dfcb1e6
-SHA1: 7519667f0faa50490d97a5b978a9c0dc34b4a7b3
-SHA256: 14db7d922208303e08740d34d57a92e1a6cfb7ba8b3a1d9ba4ec35071522b280
-SHA512: 408d43de15be493d0191fb81a934d0c307d7f40cb0dceb19ec8700c3aa2bcf3dec75bd43d18951f13e9f8e30343fb67cf1b74029d637d65da57692597063f3d5
+Size: 6373984
+MD5sum: a5cdfc3e93959c0c40cc374a712d9e30
+SHA1: defa16d2f4e1e703581b4fb25baac21b3c667651
+SHA256: e8a3a93ff544a53daa2f63cdc9b739c9fda881be9e4a086b9207bb1e22c7aec4
+SHA512: 041db015f8ee0e85a0434ec28a293b8123c55f8d277a97420466417ffdcb4167fb93ae92dbcc4d7450f57d1400173c5b2cf78a7eff23a5d794a45c8f6cf5c365
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system.
 
