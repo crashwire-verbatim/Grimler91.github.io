@@ -35,11 +35,11 @@ Maintainer: Auxilus @Auxilus
 Installed-Size: 56544
 Depends: libnl, openssl, libpcap, libpcap-dev, libcrypt, libgcrypt-dev, glib
 Filename: dists/testing/misc/binary-arm/tshark_2.4.2_arm.deb
-Size: 11279184
-MD5sum: 74455252d932fea128ef96a40c71ad63
-SHA1: 4acbff7a965f01fb88b6f8455c3ffd6b9a09b58a
-SHA256: af31f50e1dddd74598b9018745916fab99e7568fb3ceadd4fa96cd554fe1c86f
-SHA512: 1ef8d3e34df56204c57d5542518b7adf75500e70c8699d06942f95ec7bee2c851e4dd3238caba6d90b33489c00170b0d973365118fa1dde282cb073a19530da8
+Size: 11291560
+MD5sum: 994c6fa4d434fb838a9b6672d35046fe
+SHA1: 56d1dec3c9845238d71937c909cd57fca9cea101
+SHA256: cf7ac4c4ce1aac5f3b339c9e628c01cdf8dc85dedf5b1c73ee90be9014c6d8e8
+SHA512: 5b8b4fa3153fa86e682b401f1576d9052d61ff8db90c3a08b948cccaf4d7a4555dcb17f8b2745b5a8d882f547b54d2327ea2df0216da6af2d065f8e545634d3c
 Homepage: https://www.aircrack-ng.org
 Description: network protocol analyzer and sniffer
 
