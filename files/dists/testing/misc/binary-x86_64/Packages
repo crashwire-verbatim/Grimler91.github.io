@@ -1,0 +1,15 @@
+Package: tshark
+Architecture: x86_64
+Version: 2.4.2
+Maintainer: Auxilus @Auxilus
+Installed-Size: 86292
+Depends: libnl, openssl, libpcap, libpcap-dev, libcrypt, libgcrypt-dev, glib
+Filename: dists/testing/misc/binary-x86_64/tshark_2.4.2_x86_64.deb
+Size: 14050104
+MD5sum: 6ec840fa1b0c6f81dd2b3a8dbe8ae16a
+SHA1: e04cd1486e0d783337cf56baa06b59c215bef2fb
+SHA256: 67c90ecf2debdb74eecde753705a662952dd5d28fb7caf087394d78fdb0db618
+SHA512: 6b218e9b3fce8f8106528e6b6b62facc21f0bc97bca64b11b3ac1852db64f9e39d6a46dca5d0d05dcf490070c1bbc09b04ae25fd73eba8a557cedee8f1f43d38
+Homepage: https://www.aircrack-ng.org
+Description: network protocol analyzer and sniffer
+
