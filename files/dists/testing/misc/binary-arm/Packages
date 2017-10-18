@@ -28,3 +28,18 @@ SHA512: ec3c8a01b16dba9030c0e0ac2f61f8680a18b0d2889aeda331b8494922e094d040727ea1
 Homepage: https://openvpn.net
 Description: An easy-to-use, robust, and highly configurable VPN (Virtual Private Network)
 
+Package: tshark
+Architecture: arm
+Version: 2.4.2
+Maintainer: Auxilus @Auxilus
+Installed-Size: 56544
+Depends: libnl, openssl, libpcap, libpcap-dev, libcrypt, libgcrypt-dev, glib
+Filename: dists/testing/misc/binary-arm/tshark_2.4.2_arm.deb
+Size: 11279184
+MD5sum: 74455252d932fea128ef96a40c71ad63
+SHA1: 4acbff7a965f01fb88b6f8455c3ffd6b9a09b58a
+SHA256: af31f50e1dddd74598b9018745916fab99e7568fb3ceadd4fa96cd554fe1c86f
+SHA512: 1ef8d3e34df56204c57d5542518b7adf75500e70c8699d06942f95ec7bee2c851e4dd3238caba6d90b33489c00170b0d973365118fa1dde282cb073a19530da8
+Homepage: https://www.aircrack-ng.org
+Description: network protocol analyzer and sniffer
+
