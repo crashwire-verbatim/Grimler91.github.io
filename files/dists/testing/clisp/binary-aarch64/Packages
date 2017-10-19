@@ -1,0 +1,14 @@
+Package: libsigsegv
+Architecture: aarch64
+Version: 2.11-Debug
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 12
+Filename: dists/testing/clisp/binary-aarch64/libsigsegv_2.11-Debug_aarch64.deb
+Size: 3380
+MD5sum: 77f60dbc51df366a374274f8be70f760
+SHA1: 0929288561e6d42c85f8e26716abfa1f37fce69a
+SHA256: c325a9592dc3918b73fdd01858eb97679753db5b8316c1e64e9c7e9772f03843
+SHA512: 69da58b1a1deef39ae91db071adab662e2dc73311c9e8e6172ba0fa3b8fb5ca9717787a39b691c26877a2dc12d9e6c2456534a0a8506c6186ca2198775ff7113
+Homepage: https://www.gnu.org/software/libsigsegv/
+Description: Library for Handling Page Faults in User Mode.
+

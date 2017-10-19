@@ -1,0 +1,14 @@
+Package: libsigsegv
+Architecture: i686
+Version: 2.11-Debug
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 12
+Filename: dists/testing/clisp/binary-i686/libsigsegv_2.11-Debug_i686.deb
+Size: 3548
+MD5sum: a57045cd20312343c25581d8a6ef7ddd
+SHA1: f6cb00ff94cf9cea32171745e53a01ae24d2ec6b
+SHA256: bc7b0849c73bd164f96af83f9b53b7e2543a029bb88717ac986d7bf7b4dd84b5
+SHA512: 9f1938f60e39a8d50288c88938803bcafe96b89b4d8ecf53ce988c1440a5a35eecdd5e9a1027559a495f2c503f776ade7519a38e1b6a1b5ffdf45012d2aa4cc6
+Homepage: https://www.gnu.org/software/libsigsegv/
+Description: Library for Handling Page Faults in User Mode.
+

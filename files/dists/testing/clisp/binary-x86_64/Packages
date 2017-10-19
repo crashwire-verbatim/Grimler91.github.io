@@ -1,0 +1,14 @@
+Package: libsigsegv
+Architecture: x86_64
+Version: 2.11-Debug
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 12
+Filename: dists/testing/clisp/binary-x86_64/libsigsegv_2.11-Debug_x86_64.deb
+Size: 4376
+MD5sum: 888983e99c1a3c17e63fc7a2e9ece315
+SHA1: 09d1926aa099210913bdb1c48d5f3800d28f57ea
+SHA256: b6cf8f4f569e1cbb2bbcf68bc3b761a35f6c1b8f2a7fbd2474cd62b71c64a02f
+SHA512: 1b686b8dca1c47a5290a5e5bf0ffd343ec647317f8bceff869ccad5d7c0f5dee45ef5fa9ce2efec1581e0ce29781443dff856a26f98afdc8567d0353af0734c1
+Homepage: https://www.gnu.org/software/libsigsegv/
+Description: Library for Handling Page Faults in User Mode.
+

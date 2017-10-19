@@ -4,14 +4,20 @@ Hash: SHA256
 Architectures: arm all
 Codename: termux
 Components: main
-Date: Thu, 19 Oct 2017 10:34:34 +0000
+Date: Thu, 19 Oct 2017 19:07:02 +0000
 Label: Package testing by Grimler
 Origin: termux packages testing
 Suite: testing
 MD5Sum:
- b08250cd46448f20a69b9edf226f8c41              176 Release
- 8fa6c93b8a37e541bc45c124eadcd7ae             1204 clisp/binary-arm/Packages
- db05a556094849704867b0317d565839              727 clisp/binary-arm/Packages.bz2
+ c4f1d85d0185392436c863bc0cfdb455              176 Release
+ 17873065e47e1def36c73b5a952c0c63              619 clisp/binary-aarch64/Packages
+ 5db222c263e3dd57528185bf91403d44              476 clisp/binary-aarch64/Packages.bz2
+ 67d945869400e0c21799e78766924aae              607 clisp/binary-arm/Packages
+ b7657b0a4c87cafab797abffbd1ec193              476 clisp/binary-arm/Packages.bz2
+ 0ac19ba69cdc81defdf7f1a7224fa51d              610 clisp/binary-i686/Packages
+ 049f35cd705b7736e356cd9f6a91d42b              473 clisp/binary-i686/Packages.bz2
+ fbb2f970bfb44cd1b0b9b3b474f72873              616 clisp/binary-x86_64/Packages
+ 11faabc709be6d1bcda92f411819d916              486 clisp/binary-x86_64/Packages.bz2
  5000ad1a0704a82c40ad96054a3001ad              653 misc/binary-aarch64/Packages
  9b907dcc46f34f6536ea6a3aa369a43e              510 misc/binary-aarch64/Packages.bz2
  ed3300fc02c282cd97286a22f8e9d4ad             1861 misc/binary-arm/Packages
@@ -35,9 +41,15 @@ MD5Sum:
  04fb7f32c84c0e755840c93612195aa8            24609 x/binary-arm/Packages
  45aff7d28a666fd89e214f0d41794128             8018 x/binary-arm/Packages.bz2
 SHA1:
- 7a0fb178e122ce2c19664f9175c8601e681d6bf4              176 Release
- dbec834c8d60951123b6498203b1197935575a9c             1204 clisp/binary-arm/Packages
- 4eef0590412b1ae30adb8f5641ee9eb1b6eac8aa              727 clisp/binary-arm/Packages.bz2
+ 819e297824101b191822d385e6139e090d41122a              176 Release
+ 6424a34c5a71668aad09faeee3db8514f437a652              619 clisp/binary-aarch64/Packages
+ 935b493cc2d203be46bb7ba0b110d93fa79badfd              476 clisp/binary-aarch64/Packages.bz2
+ cfceccb54e290605ca4e9b64a3417b0cf8efe710              607 clisp/binary-arm/Packages
+ 1d61fa59e84038b2593495251474dbb4193ad973              476 clisp/binary-arm/Packages.bz2
+ 8e26f7769962d72b8aee7c406a1b7c97d6820017              610 clisp/binary-i686/Packages
+ 7fe00c37d2d2a994b5ee6b2d1af642f6292ca062              473 clisp/binary-i686/Packages.bz2
+ 0c150875b3cc6d49ce535e4c395357bc4496360b              616 clisp/binary-x86_64/Packages
+ 33e652619c2ebabbad3f24da914a5e28f61e0b5d              486 clisp/binary-x86_64/Packages.bz2
  25e14f7738e8f95c39c73baa028ac72aaac381b6              653 misc/binary-aarch64/Packages
  097180db6bdae0548b9ceaf19ed38f47b9b35db6              510 misc/binary-aarch64/Packages.bz2
  9a173059704a837dad4a6cfe1186915cdd60e018             1861 misc/binary-arm/Packages
@@ -61,9 +73,15 @@ SHA1:
  964f5304ab440359858412c61feb50f873b81500            24609 x/binary-arm/Packages
  37fb304124094d556310900a0aa7e6271f4f8273             8018 x/binary-arm/Packages.bz2
 SHA256:
- 05bdf51570a6ad49f6f7c268c0cd9593085c6d7b6a96f8a7cf7489459586b2e7              176 Release
- 703883f19e981d60f359454329c1baed2cd29fd93b719f5b1c86d0eefda8be41             1204 clisp/binary-arm/Packages
- 8c323f06ee2adc5757804c84e927f2a1838bef10816679d197841602e5249187              727 clisp/binary-arm/Packages.bz2
+ dc1e0c3631ecc003e9fbc10364c9ab28568cfe90bc736ae76316577b1c758bda              176 Release
+ 1a236d0ee5326e25ab347905e5251dbe17cc22235e6e66e4ee3befcfceebee56              619 clisp/binary-aarch64/Packages
+ 59f2a743af3030a4b4f036e2f15663735905dcddd87990670fcaf21e54a4ae49              476 clisp/binary-aarch64/Packages.bz2
+ 75ccd8d672ab8c5087d83b00e6c44012fb905302a9ca2bcaeadd6520621dd803              607 clisp/binary-arm/Packages
+ 699c74e36974600880d1470c6fe2a82291fd8786e1ab4438d1df5dc7d85d1e19              476 clisp/binary-arm/Packages.bz2
+ da3ac022c9a4073e0accdfb324c63781576ce9f8f43d7848cf9f77280c0a9ab9              610 clisp/binary-i686/Packages
+ 43710efbdd6a35dbaed43a1a9865476048249c3a1e8687af5dd1ce23db63af3d              473 clisp/binary-i686/Packages.bz2
+ d860de65313a87d16342e3ff3888faa2a58d62bcb1943cae03eae9e1b1a511d0              616 clisp/binary-x86_64/Packages
+ 966ddbcc647534ed6466bcdd38237eef59d3166fcd503f2d0ad36bc14fad72ec              486 clisp/binary-x86_64/Packages.bz2
  47d43959b869814cc4f49fc96ba99bdf4709bf787c6a600dce205039a26a8de8              653 misc/binary-aarch64/Packages
  6c3e9fc9dee4538cdea747d66faad19877f5c411a2f0b640adc9d5128155211c              510 misc/binary-aarch64/Packages.bz2
  1792172d9321d619b1105f51f001aaf642f946f1c2313771fcaacacf24481c20             1861 misc/binary-arm/Packages
@@ -87,9 +105,15 @@ SHA256:
  8760caa2d9ed28933631bcc42406b4614eb20295ad29ed079f6f0870cfed2416            24609 x/binary-arm/Packages
  89bd07b20419575be9824874a0389e97b7ba7c83109d3745d0d422bece00189d             8018 x/binary-arm/Packages.bz2
 SHA512:
- 6c96e2325ee591e629caf784e7aa4664bb3df5fe0907607518b98a778c1736f48106c445e8194cdcfcdb0c72081f4bf33dca3c2494ec84fe43c9f43fc87f152c              176 Release
- f7119708e37aa442f7ef35ce30797eadbb92f9239b7efbd83366732b58495a9c9a203ff64ec4b399ba933411678e8c33d284b897184f087358b8489e355c2599             1204 clisp/binary-arm/Packages
- a36aa9742e02f5b766cf2b88449cca620d17da0f1ce6852307db1d9314139db2840fc99b585960d27e24d039c785c69fe4928698345a844537d13ace368cb153              727 clisp/binary-arm/Packages.bz2
+ 58a8d7534b94388dae98d78803d1da63c803c5190ce3cd742d7242cc4e403f0d0d3817ed60e1a36662aaa3a1886855507f9e9cc832d507123694aeccecbbc880              176 Release
+ fd2e68207f7d23a8f015da9e51232b4cc1c8d36ecdcfae6d3e47d5428ba572bb6c4d8918dcd829ac17c85d44a37ac07a70d1008efb0a1adaf42a24940206eedd              619 clisp/binary-aarch64/Packages
+ 8b6db2112216476f63a1380ad7ab09cbe45eccd7edb3ca8b8e76d47a6911e8bfdb8b6f10fb4e3051b3b525c2fff2d877553ad96811c95d8f2edb14df4ba0d880              476 clisp/binary-aarch64/Packages.bz2
+ 0cab4063d4d4f52b9c78d19da019f04b42df281cf75586c160ee7c8d3b025b7559f29ba2ae07f31de6033271b5664275ccce0632bbf583a50f4fcc27ce511bad              607 clisp/binary-arm/Packages
+ a9a7c349e587848a9391c7dddea3d245f72764bc7d6fd40baea99a622a87a7df923cf7eea10c71af0b030b33ef05592bd6f0bec8f7fa56fcdc4bd197a3c0dd08              476 clisp/binary-arm/Packages.bz2
+ 7fd853828bb1f21561c00afca2c728ba5df0dc1b76240225242467902e9d7eb8e107691ae8725b3a23d7a58231b20874ca0efdb2d87088668ee725822021f513              610 clisp/binary-i686/Packages
+ 29282e68cc6012952a00c75314e5b22415cbe794b991300f0251e4f3eb65b75375eddec0c0fcb97e7899ef4b9c677ec74bbddd6b205a430af11042c88d325523              473 clisp/binary-i686/Packages.bz2
+ bb9f569984f208016ffb58b987342f616c918d8a1e036bdb0feb660bcb653777e8b626fbe861f4ad0d8fe7593e941c2ccebce41c1a49889645c78ab3dd5ddb59              616 clisp/binary-x86_64/Packages
+ c8f5890bab695dfddf30b1a5275133ab992bfe24819f43844e8d65f363239414d1395a838137dcd36f06e15020601e518c444dd6b88e8d4266a43c0486b228ed              486 clisp/binary-x86_64/Packages.bz2
  77bb9555ab18c3dfbbbe6779bd045a9476788288bb268dddc356e8c6d16abd96450f9257ecb9d5cd57fad2beabf442dc80122f6aeb36afc4a51023abcdaa4390              653 misc/binary-aarch64/Packages
  b967c39535373814eab53335563bd9cf5f1bc432295a84a9570647dc71c15a58ca0929950daa63e111839e32592528733452789ec26c2b7157f20edb70ec7f16              510 misc/binary-aarch64/Packages.bz2
  51638ce114dfe0d1ebe49de19b810d4915865e1ad341d7ba59ca44cf3999adc21f0878e6c318c0361e0636c5debd9ab5043a70cbf6a86f8d37812d0bb2fae650             1861 misc/binary-arm/Packages
@@ -114,11 +138,11 @@ SHA512:
  28581109e2e5a9362f8cdf279ed0baefc72a47f9ac4cce6ece49a2195130e779e8cf73d16828260eea55b8f2e2b23fe0b682bc7ddb9ffe65a04377e835bace0f             8018 x/binary-arm/Packages.bz2
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCAAGBQJZ6H+6AAoJEFqqyeCka+U8DYsH/0W/piWSgYk6IVMQNQ/OPPZL
-VgX7TpPFbZZroNzJ8Uvez8Alw/mvJO3q8E7yf9k6FhqGgBRLV2jAp93JiiIa5/XG
-sHGQrEfdMcH5gzyUGc04ZiN1C/dWzQu8XVtcQNKdGNTkDzRP9TND75/X+6I4kgIO
-tng7n27xGU4QUSSefF5WF0RwFBcDdgxWKhbGWyVrlX4p4nl/MePvx1UsxV/T1H0o
-8JuunF+3mwGC55VPntUWDZsKRLQarSXe0wShcLNj5UtOgehbb1sAY4SWO4GSivrO
-mNBdq/2WHzDy9++dfy87Rr3HF5eNMdh4te3GfIDL0r9TYZkGgZ1uoYrlvZA0nZM=
-=CDBT
+iQEcBAEBCAAGBQJZ6PfWAAoJEFqqyeCka+U82CMH/AqPdTLFRrGjWyXCnPIlOoR7
+d0dlkDnCjrZQILKiJlfumKCnmpD6wO/mAuXItm/sfBmrqBmxMcFJsHaDKzycI3tQ
+fmWgc+GPrVRk9H/bpylRXYizmNBFQikph+q5zsHc/R/x0sTLAb7i8w7Ixj/pLBSy
+F0k/xrmDKB39jOdLVNfVWUg6QALj/aosgkl3VeGb701ZMezLUzntaj/afkiYxLnL
+ErkGDZ/4unSo/BcM+b35yUJQ3y4tTfC8AmD6zr5VKys+ZLLyZd91FBabUIkE9CnT
+1THR+47pGZMBbJmSHqGrSKtedaD9lFklQ6c/pvBGsJXswoJO6nT/yqeirUq4qBE=
+=hGRh
 -----END PGP SIGNATURE-----
