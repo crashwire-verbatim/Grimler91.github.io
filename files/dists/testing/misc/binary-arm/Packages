@@ -1,3 +1,18 @@
+Package: libical
+Architecture: arm
+Version: 3.0.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 504
+Depends: libxml2
+Filename: dists/testing/misc/binary-arm/libical_3.0.1_arm.deb
+Size: 138512
+MD5sum: 72300b44f7b71af489a42855ae12bb7a
+SHA1: 1731ac7cf1e3e6447d4927d56ca3b0c00863d8bf
+SHA256: 6e84f1b0af0689134f2cc83e29195be96b326cb478b89d9e21b2b81ea9b558d0
+SHA512: dae102c5368a5c3dc53767539688b9af15ea494a4831b7f6543ed175fce744afd3702ddfead1b7d629a518ac6c87c67c2e474a482fb68469c035a43a3f399022
+Homepage:
+Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
+
 Package: openvpn-dev
 Architecture: arm
 Version: 2.4.2

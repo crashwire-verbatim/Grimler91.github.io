@@ -1,3 +1,18 @@
+Package: libical
+Architecture: aarch64
+Version: 3.0.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 684
+Depends: libxml2
+Filename: dists/testing/misc/binary-aarch64/libical_3.0.1_aarch64.deb
+Size: 127180
+MD5sum: 025bd1f386fc7eb6f38c928640f0d0fb
+SHA1: 7264d645f785dd413625342aca4eeb616460f7dc
+SHA256: 41742933d777dbce141c29734966fb8cb0e3785026f48963ca11e6ff62f73c45
+SHA512: 3c9d06eac153c93e368292c27619bd93cb9f9fff965b1008d865e7287f9da49f59def12db76788646d14eff4617e92eca801799d728905aff32bdf714bf292d9
+Homepage:
+Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
+
 Package: tshark
 Architecture: aarch64
 Version: 2.4.2
