@@ -1,3 +1,18 @@
+Package: libical-dev
+Architecture: aarch64
+Version: 3.0.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 736
+Depends: libical
+Filename: dists/testing/misc/binary-aarch64/libical-dev_3.0.1_aarch64.deb
+Size: 58600
+MD5sum: 118cce41d80355819a97eeaef6e55c64
+SHA1: 08bfc063e4f5c3741bfd9f981ca4a2fcbbb6a2c4
+SHA256: 6b7d24f0366ceab02e45bdfc00597ca3d90f6c01b76bd437b69c2e16fa328223
+SHA512: 6b4da80b90de74d4ca7940b20b522f03ad58d32510e2c84b3ea01d9a91e1b2fdc1427e6bb3b55ce24373c5d7de6cfd7a8cbdf9e2b41904c4526ea2145aafd2be
+Homepage:
+Description: Development files for libical
+
 Package: libical
 Architecture: aarch64
 Version: 3.0.1

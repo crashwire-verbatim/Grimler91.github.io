@@ -1,3 +1,18 @@
+Package: libical-dev
+Architecture: arm
+Version: 3.0.1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 736
+Depends: libical
+Filename: dists/testing/misc/binary-arm/libical-dev_3.0.1_arm.deb
+Size: 58628
+MD5sum: 2a43803af88b04c87c22dfb3e7e81e05
+SHA1: f09e31a56f1e29918561e5e8e0cc398a8ea381df
+SHA256: 2ab14bc4f61cf28b0cb962280e622ae47acd44053a74a4a033a12e6a9a719dd2
+SHA512: 0a2c4557bd3e615af9438d594ac51d44a55351da43f138d75a1b6fa2effec9ea3481a0c26756acc0d6667438318047cd47acc048a337377c5a3493570aee277c
+Homepage:
+Description: Development files for libical
+
 Package: libical
 Architecture: arm
 Version: 3.0.1
