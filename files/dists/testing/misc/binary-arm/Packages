@@ -58,6 +58,21 @@ SHA512: ec3c8a01b16dba9030c0e0ac2f61f8680a18b0d2889aeda331b8494922e094d040727ea1
 Homepage: https://openvpn.net
 Description: An easy-to-use, robust, and highly configurable VPN (Virtual Private Network)
 
+Package: taskwarrior
+Architecture: arm
+Version: 2.5.1-4
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1808
+Depends: libgnutls, libuuid, libandroid-glob
+Filename: dists/testing/misc/binary-arm/taskwarrior_2.5.1-4_arm.deb
+Size: 630024
+MD5sum: 7b3146523f11d73b5c2701eac750c897
+SHA1: 676c341870635217ba8053be5dd12e2542197d52
+SHA256: 8c976f32aeb061ab0fe3168455da2073705c0d53971c739d7ef5a051e264906c
+SHA512: 665e5cdbb39e5a1d77b45ea66023e836de3ca7898d35c6499df44c12efe5ee3defdc2b93ed0179435fceb4c08515198dc259eb9acfcbd37b341db77d00b96f23
+Homepage: https://taskwarrior.org
+Description: Utility for managing your TODO list
+
 Package: tshark
 Architecture: arm
 Version: 2.4.2
