@@ -1,12 +1,12 @@
 Architectures: arm aarch64 i686 x85_64 all
 Codename: termux
 Components: main
-Date: Sun, 17 Dec 2017 16:31:07 +0000
+Date: Thu, 28 Dec 2017 10:45:30 +0000
 Label: Package testing by Grimler
 Origin: termux packages testing
 Suite: testing
 MD5Sum:
- e51b75ad144fbc1f5a895a8737668405              196 Release
+ 046152a27e30c5aabee99f197dcadab8              196 Release
  17873065e47e1def36c73b5a952c0c63              619 clisp/binary-aarch64/Packages
  5db222c263e3dd57528185bf91403d44              476 clisp/binary-aarch64/Packages.bz2
  67d945869400e0c21799e78766924aae              607 clisp/binary-arm/Packages
@@ -21,10 +21,10 @@ MD5Sum:
  ecf21779596c4dc91792da5707df031d             1786 misc/binary-arm/Packages.bz2
  e23853ab01966c06c26bea82942eb005              644 misc/binary-i686/Packages
  58cf408cc6268ba309a672f6d25961a3              502 misc/binary-i686/Packages.bz2
- 978eb6971b798d4566b440cba2c6045e              650 misc/binary-x86_64/Packages
- 5392604b5ecfaf73c48e7fb39e01562b              511 misc/binary-x86_64/Packages.bz2
+ dd8cf0eec27e5f3b01b540260e5180cc             1934 misc/binary-x86_64/Packages
+ de55530da4df07928f94506ce94aa170             1050 misc/binary-x86_64/Packages.bz2
 SHA1:
- 7d7769ec11c8365e5cd3c612c663773533662c24              196 Release
+ 50a7e76f3c9e8a6e9bb75aa2e611f0e04bd008c6              196 Release
  6424a34c5a71668aad09faeee3db8514f437a652              619 clisp/binary-aarch64/Packages
  935b493cc2d203be46bb7ba0b110d93fa79badfd              476 clisp/binary-aarch64/Packages.bz2
  cfceccb54e290605ca4e9b64a3417b0cf8efe710              607 clisp/binary-arm/Packages
@@ -39,10 +39,10 @@ SHA1:
  fb1897215cf3904eecddee6509780d4a2f9afbcf             1786 misc/binary-arm/Packages.bz2
  9d74fc4781b64a3747925bfbae73f0a29a313244              644 misc/binary-i686/Packages
  09e6e93794de4552efa579de1004322328271f22              502 misc/binary-i686/Packages.bz2
- 8027179344a333849065e13de6e319365001f9a3              650 misc/binary-x86_64/Packages
- ebaa2105a5dc2a5f60bd04e8ba6b3636cf02dd22              511 misc/binary-x86_64/Packages.bz2
+ 02f64f45234467b50dd00e1b3f79f4da0cc939be             1934 misc/binary-x86_64/Packages
+ fa80efc12bb8ce269f842ef9988420f6fc27bbd0             1050 misc/binary-x86_64/Packages.bz2
 SHA256:
- 9067c0cc8248c180e9374e091e3a1cda4c95b6cf75a6e7d0145ced31bbc351ad              196 Release
+ 00cbb82a9109024b7a06ee3c48c86a46d3d33b0ba6079c840458fd389fb78930              196 Release
  1a236d0ee5326e25ab347905e5251dbe17cc22235e6e66e4ee3befcfceebee56              619 clisp/binary-aarch64/Packages
  59f2a743af3030a4b4f036e2f15663735905dcddd87990670fcaf21e54a4ae49              476 clisp/binary-aarch64/Packages.bz2
  75ccd8d672ab8c5087d83b00e6c44012fb905302a9ca2bcaeadd6520621dd803              607 clisp/binary-arm/Packages
@@ -57,10 +57,10 @@ SHA256:
  e4295942498fa0beb22e23d65613a9488d0aed92e1925ba9cacc2d4073a38e52             1786 misc/binary-arm/Packages.bz2
  152fbc9ffa53ab7da05f9edf294a16fd84e76dfd4c2574bf07d20c2c186c3ac9              644 misc/binary-i686/Packages
  410cdf30b6ab15291505e4c139ff56445ae82c17a9203817235309fc61de8797              502 misc/binary-i686/Packages.bz2
- 10b4f65d32aa2760d5e0a13bf2e318955838088f87f01fd848bf52d77d2f8abd              650 misc/binary-x86_64/Packages
- 07e954a141b1df9d9d9c63b66f71ff3377ae4b8db2f090eb6994bb7b0bb58cf1              511 misc/binary-x86_64/Packages.bz2
+ ff057e82cdf44eaaba7fae79401b4c83ec0e92f01222cbbfcf49958a59f7fdc3             1934 misc/binary-x86_64/Packages
+ 28b30022c79afba9b86668381e146de32f6c2369cbd7d328948714791a2aca29             1050 misc/binary-x86_64/Packages.bz2
 SHA512:
- 3ffabdee8d797cb97ff7f38963dc33bc452e045e935546fea88c464f1dd3dd8d37bdaa960d4477a4e46bfae95fd9cde7880950ec598b3d5b89ecf2ccb3b2fe30              196 Release
+ b7f368e754a10f4f59712d9de9e4a02a613d7e6a2e614c25f58461b2bb0ed1e83cb29bf5b4e23e767f27a431d7a272cda8609b6287a849a81950bd1df12fffb0              196 Release
  fd2e68207f7d23a8f015da9e51232b4cc1c8d36ecdcfae6d3e47d5428ba572bb6c4d8918dcd829ac17c85d44a37ac07a70d1008efb0a1adaf42a24940206eedd              619 clisp/binary-aarch64/Packages
  8b6db2112216476f63a1380ad7ab09cbe45eccd7edb3ca8b8e76d47a6911e8bfdb8b6f10fb4e3051b3b525c2fff2d877553ad96811c95d8f2edb14df4ba0d880              476 clisp/binary-aarch64/Packages.bz2
  0cab4063d4d4f52b9c78d19da019f04b42df281cf75586c160ee7c8d3b025b7559f29ba2ae07f31de6033271b5664275ccce0632bbf583a50f4fcc27ce511bad              607 clisp/binary-arm/Packages
@@ -75,5 +75,5 @@ SHA512:
  dd3dcd89392b194e30a8923869259cae261e2dec1c906ccf367e1199b896c08eb0b5ec26f8bbd8b6d0c977685218c99bde4cb80f138372c471c70ca2ab1b4116             1786 misc/binary-arm/Packages.bz2
  067a9ebb61da88e0de40a1c4a91385803cd0aff9226d8bfbd2a8fd921ab51abde18aae2ebbc4caa1fa7895f4fa9c1c7490290af472a8920d7ce07bb4a30d574e              644 misc/binary-i686/Packages
  e6a6de5991b37878e1c8ad76b611b88988f1147a4170c4af3bcaac0b9dcfc489b208b325a18db26b98edb5211840a566401596490c7972816760c0d86860ba1b              502 misc/binary-i686/Packages.bz2
- 1ba81b7efbd597a141e84b8a053656abc2ec7e09c539b417a5763e9742b4e4949315ac63028ebd1d53891cb7c0316dabcafea3cfec01cbbcfa5def7059680fe3              650 misc/binary-x86_64/Packages
- 32f6053f61325bffaf81281c1cc368c7d502b17f19d9c5c9c50de41b262deb2a228f21a5c047ad2d3d6be565f9df0005124f18a0be177a38b1c0bbac25e79753              511 misc/binary-x86_64/Packages.bz2
+ 966631fe1e152d9c445dd4298f30bd26e525de329828ef6f2b3019b0a3060d428488a1a121039cede9fd7fc011e3a971d4e0ebdb5b504cd77d5dd2be918f1c53             1934 misc/binary-x86_64/Packages
+ 3ed174a011c2f8213d85e0088e1c42e7a2dc1d264b77990ed7819ed9a890aeb8fe155871e9c8dc08d8437b9acb5b1532338bd7bb5eba2fe42896573296aa6059             1050 misc/binary-x86_64/Packages.bz2

@@ -1,3 +1,33 @@
+Package: notmuch
+Architecture: x86_64
+Version: 0.25.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1892
+Depends: glib, libgmime, libtalloc, libxapian
+Filename: dists/testing/misc/binary-x86_64/notmuch_0.25.3Debug_x86_64.deb
+Size: 454948
+MD5sum: 669700bad9f721f76d5a5085a0b28627
+SHA1: af9dc05d24f4fa025b913e75ea03219db8b34bbe
+SHA256: 0fcdcc73fa463e67892817981f13444030e4dbb19ca66d23ad5ba7313deaefc6
+SHA512: ad7a4be7c41abe8f799f708a66bc8b276318228a2116c474cc50740b7041cb8dcd1436792e87f44182319690cbc8a9681a23c49ebb0ae44aa1b4b45015b69584
+Homepage: https://notmuchmail.org
+Description: Thread-based email index, search and tagging system
+
+Package: notmuch
+Architecture: x86_64
+Version: 0.25.3
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 412
+Depends: glib, libgmime, libtalloc, libxapian
+Filename: dists/testing/misc/binary-x86_64/notmuch_0.25.3_x86_64.deb
+Size: 140052
+MD5sum: 46a21914a5eaf9563b83a481dc6241ba
+SHA1: 9eb9012a2e1204f4b31d76deb79ee5c1a6a287ee
+SHA256: c63d82a869029ccc91cbe2abdc4ca3ee8f26cfedb6195f1d67460b4692d491fe
+SHA512: 379c1673223018933977769f331d0eed62bb2771340ad92d0d0f5776e3b8452927d821554b928033f3b0ba7ea092a422fa3daeec7833eb401bdda4c6eb862c6b
+Homepage: https://notmuchmail.org
+Description: Thread-based email index, search and tagging system
+
 Package: tshark
 Architecture: x86_64
 Version: 2.4.2
