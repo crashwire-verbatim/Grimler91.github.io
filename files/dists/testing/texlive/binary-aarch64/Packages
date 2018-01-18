@@ -1,0 +1,35 @@
+Package: texlive-bin-dev
+Architecture: aarch64
+Version: 20170524-7
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 324
+Depends: texlive-bin
+Conflicts: texlive-dev
+Replaces: texlive-dev
+Filename: dists/testing/texlive/binary-aarch64/texlive-bin-dev_20170524-7_aarch64.deb
+Size: 44860
+MD5sum: 8571743428c45da2fd7503aaf6c3382c
+SHA1: 82a3bffa92fbb5671658858adb94f0c2631cb1de
+SHA256: 1946b14937e7bb5103bc62211e46ea1b5e5782f2da9689a3b1c39cdd306514e4
+SHA512: 9559d314a16bc022daf38c88f3db62a453807e95b82ee6697dcfcf87a337aea1bdb3ce1ca10d423cce4ad00076e30ba2e8e0794305d9be888084eb1fb6b538da
+Homepage: https://www.tug.org/texlive/
+Description: Development files for texlive
+
+Package: texlive-bin
+Architecture: aarch64
+Version: 20170524-7
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 27152
+Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl, teckit
+Recommends: texlive
+Breaks: texlive (<< 20170524-3)
+Replaces: texlive (<< 20170524-3)
+Filename: dists/testing/texlive/binary-aarch64/texlive-bin_20170524-7_aarch64.deb
+Size: 5331348
+MD5sum: 0916ea034f62428fb8eaeba2ddd59e7a
+SHA1: b1ba4e8426845046cfd95e796e519d1404dcb323
+SHA256: e04764d4870366e8717ad03170e1abfac0b02d3624de17b9221e614aa031e233
+SHA512: 32d8ee086203623e19cd5e018eef9e9a36120dcac9af9d6516bfdeb77517d3178e86c643b8d356f3706b0d1c62e4b829599271ca0da2d69ad4700c9c5c46cf53
+Homepage: https://www.tug.org/texlive/
+Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
+
