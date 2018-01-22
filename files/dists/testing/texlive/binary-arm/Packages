@@ -1,3 +1,32 @@
+Package: teckit-dev
+Architecture: arm
+Version: 2.5.7
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 20
+Depends: teckit
+Filename: dists/testing/texlive/binary-arm/teckit-dev_2.5.7_arm.deb
+Size: 5204
+MD5sum: 4aa0ee837d05cc5b9ee5a37ceacf9e29
+SHA1: c7503faa6ccfc1854b80fd5c32670b409f6b8209
+SHA256: dd069cb7941dd6322f53a6ef54aa578d01de9127154be575409b3272bf0e3083
+SHA512: b0e8ee2fb21e663598ff53207e20c4b0ce8de74185dadeec8f75ba30eb3c70dbafc839c25abcff4bb5257a73c15e820b6247e673811b7b6f31cebc5058d91846
+Homepage: http://scripts.sil.org/teckitdownloads
+Description: Development files for teckit
+
+Package: teckit
+Architecture: arm
+Version: 2.5.7
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 1752
+Filename: dists/testing/texlive/binary-arm/teckit_2.5.7_arm.deb
+Size: 278556
+MD5sum: 0da5cd5e8a25c24e0414093a0e7132c8
+SHA1: dde8564a3719143a2de2836ae11ee247e287253c
+SHA256: 8fa056dadc20b81cc964e5099560597fa703ff6ce9354af65e95537f8b0c0daf
+SHA512: f406b63e7c274924af18620c11c13416a808d45811dc7eeb20d59d1f01ae2b8095f758eb42ed14e65f4958a9c88e70bc2751007ef75a2c87559588e536db5a5e
+Homepage: http://scripts.sil.org/teckitdownloads
+Description: TECkit is a library for encoding conversion
+
 Package: texlive-bin-dev
 Architecture: arm
 Version: 20170524-7
