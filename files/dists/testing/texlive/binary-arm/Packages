@@ -1,3 +1,33 @@
+Package: poppler-dev
+Architecture: arm
+Version: 0.62.0-1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1464
+Depends: poppler
+Filename: dists/testing/texlive/binary-arm/poppler-dev_0.62.0-1_arm.deb
+Size: 164532
+MD5sum: 9327e5737458d87cf56ba9a723087a11
+SHA1: 5e0dfadf00631ec00f1aebb3c373aa5fbb7aacf3
+SHA256: f57824f2eaad437572c7ebe61349b2ee0f738876c20e1990e3a0336423572e48
+SHA512: 59d40a408b591b7eb786986a1ce9a810175a7175f21724b4c8cc20ef0c41213493c48d1d6c79fc02184cdbe7e79dc5bc7efee1064d783142da582561fcefa1c1
+Homepage: https://poppler.freedesktop.org/
+Description: Development files for poppler
+
+Package: poppler
+Architecture: arm
+Version: 0.62.0-1
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 2300
+Depends: fontconfig, libcairo, libpng, libjpeg-turbo, libtiff, littlecms, openjpeg, freetype, libcurl
+Filename: dists/testing/texlive/binary-arm/poppler_0.62.0-1_arm.deb
+Size: 700844
+MD5sum: eb0599b02ec61e000bd120fbb444f849
+SHA1: 30c446804e932e0b877d6f78375f9144fb9813e3
+SHA256: a1f3cb69c6666e497bd1e22a1d512ed5ac0aed55666fc02b6d00d51ff0232761
+SHA512: 9b26f6cbe35d75e35a0fa2543e6451f403df52c2713243a383c3566dfd1556b8145984c6344d83e9ecbeefdde3a7a18aa285ebfe114c9b7beb39ca1857739bb6
+Homepage: https://poppler.freedesktop.org/
+Description: PDF rendering library
+
 Package: teckit-dev
 Architecture: arm
 Version: 2.5.7
@@ -53,11 +83,11 @@ Depends: texlive-bin
 Conflicts: texlive-dev
 Replaces: texlive-dev
 Filename: dists/testing/texlive/binary-arm/texlive-bin-dev_20170524-8_arm.deb
-Size: 44860
-MD5sum: ea89e27dfdb0cb8f2d722e930295fca0
-SHA1: c5a5951e6fc720510c8e83d5bae40fc7adddc141
-SHA256: a48108071415c07f8bca99bf5e6c2d1eb150442633c77077ea91bced9c728002
-SHA512: 83de751c32b00f525b8eda1f3d910a3841be50312cc1a6c308736141c836d8d4518b2400f881b3b534e3b24cc22b23832593eeb36a403b362954d22493513b4b
+Size: 44868
+MD5sum: 3e28b953df2da150b2369ca3d2ea6040
+SHA1: 371973a53faf4109ac92902cb08058151b911eda
+SHA256: 24ddbdc182383a1c351687c48d30834010e165f9c77180b0e8739f378dd79318
+SHA512: ec5699b43c015b07236a274bd55d89ef71840d0da2e7614987d8daa6f815df536181702ad902b1a5df579620576d8a7c102cb3d8ba6d5eaed0902223712001db
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive
 
@@ -83,17 +113,17 @@ Package: texlive-bin
 Architecture: arm
 Version: 20170524-8
 Maintainer: Henrik Grimler @Grimler91
-Installed-Size: 25048
-Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl, teckit
+Installed-Size: 26424
+Depends: freetype, libpng, libgd, libgmp, libmpfr, libicu, liblua, poppler, libgraphite, harfbuzz-icu, perl
 Recommends: texlive
 Breaks: texlive (<< 20170524-3)
 Replaces: texlive (<< 20170524-3)
 Filename: dists/testing/texlive/binary-arm/texlive-bin_20170524-8_arm.deb
-Size: 6050560
-MD5sum: 842a8d8e1aba3b9b6bcd539587bfddcd
-SHA1: dae02ecd85f0385ef2e3b7205b5ce2442395bde6
-SHA256: 239d39dd1fad9b8c768dfe346bb4eca9627bae75a3e4838fcd0f7baaedde150c
-SHA512: be8b30536c87c74148f5c0f3cedefd4564632ebaf14eca06a4379c65b6a6dd2e1ee34543183048946f7fa6f48eae436a4e104225737a540e6f68af4768556e74
+Size: 6260044
+MD5sum: 11626c29f8b8c50d7974ffafd630678c
+SHA1: 6d2d0c2f46dd3f6991c1ce12f8aff5b403e178c8
+SHA256: 1563d73a52793c95fadc063652a0a078b26713dcf398f50cefc1af70f6cf52a2
+SHA512: 142557a42fae826a62c8301f17911ba47e5f49b38f75df21e3e3f7a6b6e1b9da48c4bfdea4696c1bf7345acfaa4dee85cba7361db848703d518bd7e0e71207b0
 Homepage: https://www.tug.org/texlive/
-Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
+Description: TeX Live is a distribution of the TeX typesetting system.
 
