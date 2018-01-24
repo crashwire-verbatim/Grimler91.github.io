@@ -83,11 +83,11 @@ Depends: texlive-bin
 Conflicts: texlive-dev
 Replaces: texlive-dev
 Filename: dists/testing/texlive/binary-arm/texlive-bin-dev_20170524-8_arm.deb
-Size: 44856
-MD5sum: 81c890f997d1b2f8757d7beac9252aba
-SHA1: 49c3089fdffee6703221643435c2922b71460d0e
-SHA256: 367806fcd436b3b03e6c9cc88d22a799685daefe49667f485f1fb89826c2ff6b
-SHA512: c2cf73a73e222ad0547952b6b644f51f2acddaf3d5ccdef20e686e1893fd27a10d0c4301a14e8277decc2c2ac07af5b4ca2d6dc957c057baa36a7c6965e73c21
+Size: 44860
+MD5sum: 34b325a7d8c14478df18705ab4bdf97c
+SHA1: 97d9e4658fcbe41b09daa50a761084ed4a8621b3
+SHA256: a3d6a517dd67dfef9a871497ebf02ffc46fedf461e9b7fed30727ed45e104514
+SHA512: e4b71977b28470016622bd79500dafb705b1937c6f450127af56d31ded1c778abda56f76fdcfa2be6c6c97cf47f66f9db2aac13816e81d860f902a5015df8197
 Homepage: https://www.tug.org/texlive/
 Description: Development files for texlive
 
@@ -119,11 +119,11 @@ Recommends: texlive
 Breaks: texlive (<< 20170524-3)
 Replaces: texlive (<< 20170524-3)
 Filename: dists/testing/texlive/binary-arm/texlive-bin_20170524-8_arm.deb
-Size: 6055972
-MD5sum: 76540571c4375d837af74234485dcecd
-SHA1: 49e4661b86b14597cb247c41a3651e3fd244e82c
-SHA256: 5d05da376d276efb61789f7a6d757ff0eaf12de21ef039fd68bd5cb6edf3228a
-SHA512: cf8db03c3f1f06b5c58228b037027b28a79602e9af8914556e5ce2099863b3283d3174bc74e2ffa466170e8c92278863ef217f98cdb357767d41f601aff9c5f9
+Size: 6050044
+MD5sum: 2f7b13306d5fcd3ae2845dd621137f9d
+SHA1: da711dd70651f04accd64547fc4d639ccf481960
+SHA256: e06c31dd13de3aec3504fa66cbeac98c00d00887a650fd0d9ea5a5ad7136f5b7
+SHA512: 044a95bbc231fec8e68e992d66576b46eab450feb8068d4e57de16f2dbcc91e4b8026cb498d2336f8cfbe46cce0e48f3337287dc96e323fe6b15ea4bcc1cc755
 Homepage: https://www.tug.org/texlive/
 Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
 
